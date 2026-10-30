@@ -1,31 +1,31 @@
 {
-  "generated_at_kst": "2026-10-30T17:56:29+09:00",
-  "last_collection_kst": "2026-10-30T17:56:29+09:00",
+  "generated_at_kst": "2026-10-31T07:49:23+09:00",
+  "last_collection_kst": "2026-10-31T07:49:23+09:00",
   "source_health": [
     {
       "source": "PubMed",
       "result": "ok",
-      "ran_at": "2026-10-30T17:56:24+09:00"
+      "ran_at": "2026-10-31T07:49:18+09:00"
     },
     {
       "source": "ClinicalTrials.gov",
       "result": "ok",
-      "ran_at": "2026-10-30T17:56:26+09:00"
+      "ran_at": "2026-10-31T07:49:20+09:00"
     },
     {
       "source": "openFDA labels",
       "result": "ok",
-      "ran_at": "2026-10-30T17:56:29+09:00"
+      "ran_at": "2026-10-31T07:49:23+09:00"
     },
     {
       "source": "식약처 품목정보",
       "result": "NOT_CONFIGURED",
-      "ran_at": "2026-10-30T17:56:19+09:00"
+      "ran_at": "2026-10-31T07:49:13+09:00"
     },
     {
       "source": "심평원 성분정보",
       "result": "NOT_CONFIGURED",
-      "ran_at": "2026-10-30T17:56:19+09:00"
+      "ran_at": "2026-10-31T07:49:13+09:00"
     }
   ],
   "limitations": [
@@ -58,7 +58,20 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42907053/",
       "summary": "저널: Endocrinology and metabolism clinics of North America. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
+    },
+    {
+      "provider": "PUBMED",
+      "uid": "42960515",
+      "drug": "경구 혈당강하제",
+      "kind": "논문 색인",
+      "event_date": "2026-11-15",
+      "status": "서지정보 등록 (연구결과 검증 전)",
+      "title": "Design and Evaluation of Compritol-Oleic Acid Nanostructured Lipid Carriers: A New Approach to Type 2 Diabetes Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960515/",
+      "summary": "저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
+      "first_seen": "2026-10-31T07:49:18+09:00",
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -71,7 +84,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42946127/",
       "summary": "저널: Pharmacoepidemiology and drug safety. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -84,7 +97,72 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42952036/",
       "summary": "저널: Allergy and asthma proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
+    },
+    {
+      "provider": "CTGOV",
+      "uid": "NCT06700538",
+      "drug": "tirzepatide",
+      "kind": "임상시험 등록정보",
+      "event_date": "2026-10-30",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A First-In-Human Study of ARO-INHBE in Adults With Obesity With and Without Type 2 Diabetes Mellitus",
+      "url": "https://clinicaltrials.gov/study/NCT06700538",
+      "summary": "연구 등록정보: 단계=['PHASE1', 'PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=190, 개입=ARO-INHBE, Placebo, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.",
+      "first_seen": "2026-10-31T07:49:20+09:00",
+      "last_seen": "2026-10-31T07:49:20+09:00"
+    },
+    {
+      "provider": "CTGOV",
+      "uid": "NCT07662109",
+      "drug": "dapagliflozin",
+      "kind": "임상시험 등록정보",
+      "event_date": "2026-10-30",
+      "status": "RECRUITING",
+      "title": "A Phase III Study to Investigate the Efficacy and Safety of the Combination of Elecoglipron and Dapagliflozin in Adults With Type 2 Diabetes Mellitus",
+      "url": "https://clinicaltrials.gov/study/NCT07662109",
+      "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=2000, 개입=Dapagliflozin, Dapagliflozin-matched placebo, Elecoglipron, Elecoglipron-matched placebo. 임상 효과가 입증됐다는 의미는 아님.",
+      "first_seen": "2026-10-31T07:49:20+09:00",
+      "last_seen": "2026-10-31T07:49:20+09:00"
+    },
+    {
+      "provider": "CTGOV",
+      "uid": "NCT07907965",
+      "drug": "dapagliflozin / empagliflozin",
+      "kind": "임상시험 등록정보",
+      "event_date": "2026-10-30",
+      "status": "ACTIVE_NOT_RECRUITING",
+      "title": "A Study on the Safety and Clinical Efficacy of Guominkang in the Treatment of Diabetic Kidney Disease",
+      "url": "https://clinicaltrials.gov/study/NCT07907965",
+      "summary": "연구 등록정보: 단계=['PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=15, 개입=Guominkang Granules, Standard Antihypertensive, Antidiabetic, and Lipid-Lowering Regimen. 임상 효과가 입증됐다는 의미는 아님.",
+      "first_seen": "2026-10-31T07:49:20+09:00",
+      "last_seen": "2026-10-31T07:49:20+09:00"
+    },
+    {
+      "provider": "PUBMED",
+      "uid": "42961329",
+      "drug": "GLP-1·GIP",
+      "kind": "논문 색인",
+      "event_date": "2026-10-30",
+      "status": "서지정보 등록 (연구결과 검증 전)",
+      "title": "Glucagon-Like Peptide-1 Analog-Type Amyloidosis: A Case Report and Review of the Literature.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961329/",
+      "summary": "저널: The American Journal of dermatopathology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
+      "first_seen": "2026-10-31T07:49:18+09:00",
+      "last_seen": "2026-10-31T07:49:18+09:00"
+    },
+    {
+      "provider": "PUBMED",
+      "uid": "42961875",
+      "drug": "경구 혈당강하제",
+      "kind": "논문 색인",
+      "event_date": "2026-10-30",
+      "status": "서지정보 등록 (연구결과 검증 전)",
+      "title": "Community health worker intervention to prevent incident type 2 diabetes: A cluster randomized trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42961875/",
+      "summary": "저널: PloS one. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
+      "first_seen": "2026-10-31T07:49:18+09:00",
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -97,7 +175,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07728318",
       "summary": "연구 등록정보: 단계=['NA'], 모집상태=NOT_YET_RECRUITING, 등록인원=52, 개입=Standard Oral Antidiabetic Drugs (OADs), Tirzepatide + Standard Therapy (Intervention Group). 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -110,7 +188,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07902726",
       "summary": "연구 등록정보: 단계=['PHASE2'], 모집상태=NOT_YET_RECRUITING, 등록인원=20, 개입=Acetazolamide 125 mg, Acetazolamide 250 mg, Acetazolamide 62.5 mg, Dapagliflozin 10mg. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -123,7 +201,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42954798/",
       "summary": "저널: SAR and QSAR in environmental research. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -136,7 +214,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955519/",
       "summary": "저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -149,7 +227,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42955528/",
       "summary": "저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -162,7 +240,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42956842/",
       "summary": "저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -175,7 +253,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42957066/",
       "summary": "저널: Journal of vascular surgery. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -188,7 +266,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06281899",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=200, 개입=Dapagliflozin 10 mg Tab, Low protein diet. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -201,7 +279,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07064473",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=11800, 개입=Empagliflozin, Placebo matching Vicadrostat, Vicadrostat. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -214,7 +292,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07900438",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=300, 개입=Semaglutide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -240,7 +318,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951018/",
       "summary": "저널: Mayo Clinic proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -253,7 +331,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951207/",
       "summary": "저널: Molecular metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -266,7 +344,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42952084/",
       "summary": "저널: Journal of diabetes investigation. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -279,7 +357,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04535960",
       "summary": "연구 등록정보: 단계=['PHASE2'], 모집상태=COMPLETED, 등록인원=6, 개입=Empagliflozin 25 MG + Liraglutide 1.8 MG, Liraglutide 1.8 MG + Empagliflozin 25 MG. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -305,7 +383,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07891234",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=NOT_YET_RECRUITING, 등록인원=66, 개입=Dapagliflozin (10mg Tab), Dapagliflozin 5Mg Tab, Metfomin 500 mg. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -318,7 +396,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42914747/",
       "summary": "저널: JACC. Advances. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -331,7 +409,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07662213",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=1200, 개입=Elecoglipron, Semaglutide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -344,7 +422,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07889453",
       "summary": "연구 등록정보: 단계=['미상'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=650, 개입=Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -357,7 +435,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07889648",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=948, 개입=Enicepatide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -370,7 +448,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42906932/",
       "summary": "저널: Anesthesia and pain medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -383,7 +461,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42911193/",
       "summary": "저널: Drug development and industrial pharmacy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -396,7 +474,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06072326",
       "summary": "연구 등록정보: 단계=['PHASE2'], 모집상태=NOT_YET_RECRUITING, 등록인원=36, 개입=Dapagliflozin (Forxiga®), SC0062 and dapagliflozin, SC0062 strength 10mg. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -409,7 +487,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07502508",
       "summary": "연구 등록정보: 단계=['PHASE2'], 모집상태=RECRUITING, 등록인원=60, 개입=Placebo, icovamenib 100 mg. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -422,7 +500,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07809568",
       "summary": "연구 등록정보: 단계=['미상'], 모집상태=NOT_YET_RECRUITING, 등록인원=330, 개입=. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -435,7 +513,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06221969",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=1024, 개입=Cagrilintide, Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -448,7 +526,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06534411",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=1023, 개입=Cagrilintide, Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -461,7 +539,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07282613",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=80, 개입=CagriSema (Cagrilintide B and Semaglutide I), Placebo matched to CagriSema (Cagrilintide B and Semaglutide I). 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -487,7 +565,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07881458",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=1000, 개입=Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -500,7 +578,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42897087/",
       "summary": "저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -513,7 +591,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42897097/",
       "summary": "저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -526,7 +604,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42927270/",
       "summary": "저널: Journal of hand surgery global online. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -539,7 +617,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42941589/",
       "summary": "저널: Journal of clinical medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -552,7 +630,20 @@
       "url": "https://clinicaltrials.gov/study/NCT06192108",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=962, 개입=Dapagliflozin, Orforglipron. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
+    },
+    {
+      "provider": "CTGOV",
+      "uid": "NCT07677865",
+      "drug": "semaglutide",
+      "kind": "임상시험 등록정보",
+      "event_date": "2026-10-16",
+      "status": "WITHDRAWN",
+      "title": "GLP-1 Receptor Agonists and Alzheimer's Disease: A Multi-National Target Trial Emulation",
+      "url": "https://clinicaltrials.gov/study/NCT07677865",
+      "summary": "연구 등록정보: 단계=['미상'], 모집상태=WITHDRAWN, 등록인원=0, 개입=DPP-4 Inhibitors, GLP-1 Receptor Agonists. 임상 효과가 입증됐다는 의미는 아님.",
+      "first_seen": "2026-10-31T07:49:20+09:00",
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -570,7 +661,7 @@
     {
       "provider": "CTGOV",
       "uid": "NCT07547878",
-      "drug": "dapagliflozin / empagliflozin",
+      "drug": "empagliflozin",
       "kind": "임상시험 등록정보",
       "event_date": "2026-10-13",
       "status": "ENROLLING_BY_INVITATION",
@@ -578,7 +669,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07547878",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=64, 개입=Accupril, Aceon, Altace, Atacand, Avapro, Benicar, Brenzavvy, Capoten. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -591,7 +682,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07872358",
       "summary": "연구 등록정보: 단계=['PHASE1'], 모집상태=COMPLETED, 등록인원=36, 개입=Empagliflozin/Linagliptin/Metformin HCl Extended Release Tablet, Trijardy® XR Tablets. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -604,12 +695,12 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42898695/",
       "summary": "저널: Metabolism open. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
       "uid": "NCT07866235",
-      "drug": "dapagliflozin / empagliflozin",
+      "drug": "empagliflozin",
       "kind": "임상시험 등록정보",
       "event_date": "2026-10-08",
       "status": "COMPLETED",
@@ -617,7 +708,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07866235",
       "summary": "연구 등록정보: 단계=['NA'], 모집상태=COMPLETED, 등록인원=116, 개입=Dapagliflozin, Empagliflozin (EMPA). 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -630,7 +721,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935495/",
       "summary": "저널: American heart journal plus : cardiology research and practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -643,7 +734,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42936196/",
       "summary": "저널: Journal of the Endocrine Society. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "PUBMED",
@@ -656,7 +747,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42928846/",
       "summary": "저널: Cureus. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -669,7 +760,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06642272",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=17200, 개입=Dapagliflozin 10 MG, Empagliflozin 10 MG. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -682,7 +773,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07632404",
       "summary": "연구 등록정보: 단계=['미상'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=214, 개입=Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -695,7 +786,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07630233",
       "summary": "연구 등록정보: 단계=['PHASE1'], 모집상태=RECRUITING, 등록인원=53, 개입=Insulin Degludec Injection, Insulin Icodec Injection, Placebo, UBT38006. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -708,7 +799,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07658417",
       "summary": "연구 등록정보: 단계=['미상'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=216, 개입=Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -721,7 +812,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903917/",
       "summary": "저널: JAAD case reports. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "CTGOV",
@@ -747,7 +838,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2205c3cf00-8c2a-4227-958a-fa5db34512b0%22&limit=1",
       "summary": "성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 7ee60ec28f5c10. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -760,7 +851,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22487cd7e7-434c-4925-99fa-aa80b1cc776b%22&limit=1",
       "summary": "성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 48dd36aa3758ff. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -773,7 +864,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22d2d7da5d-ad07-4228-955f-cf7e355c8cc0%22&limit=1",
       "summary": "성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 7568cbb94cabb7. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -786,7 +877,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2259ed43d9-b4e0-72a2-e063-6394a90a327d%22&limit=1",
       "summary": "성분: EMPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 10498873d75225. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -799,7 +890,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%220fdd0255-0055-65f3-b2c0-db8fbb87beae%22&limit=1",
       "summary": "성분: EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE. 임상 관련 라벨 항목 식별값: 856e01d9f766fd. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -812,7 +903,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2271873567-9594-452a-bb92-34a129adecac%22&limit=1",
       "summary": "성분: EMPAGLIFLOZIN, LINAGLIPTIN, METFORMIN HYDROCHLORIDE. 임상 관련 라벨 항목 식별값: 4c62a77a979327. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -825,7 +916,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22828f1004-3647-9a13-8008-c4b3759ecfd0%22&limit=1",
       "summary": "성분: DAPAGLIFLOZIN 2,3-BUTANEDIOL MONOHYDRATE. 임상 관련 라벨 항목 식별값: 2dfe970658a271. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "CTGOV",
@@ -838,7 +929,7 @@
       "url": "https://clinicaltrials.gov/study/NCT04760626",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=1085, 개입=Insulin Degludec, Insulin Glargine 100U/mL, Insulin Glargine 300U/mL, Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -851,7 +942,7 @@
       "url": "https://clinicaltrials.gov/study/NCT06340854",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=412, 개입=Insulin glargine, Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -864,7 +955,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07112339",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=586, 개입=Basal insulin analogues, Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -877,7 +968,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%228006ba29-ee3a-f852-a9bb-c8ec9b41cf66%22&limit=1",
       "summary": "성분: EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE. 임상 관련 라벨 항목 식별값: 21354883a794da. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -890,7 +981,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22ac8a0f7b-9f69-4495-abbc-3a47cd75a859%22&limit=1",
       "summary": "성분: DAPAGLIFLOZIN PROPANEDIOL, METFORMIN HYDROCHLORIDE. 임상 관련 라벨 항목 식별값: 56de83ae6c0dd1. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "CTGOV",
@@ -903,7 +994,7 @@
       "url": "https://clinicaltrials.gov/study/NCT07747402",
       "summary": "연구 등록정보: 단계=['PHASE4'], 모집상태=NOT_YET_RECRUITING, 등록인원=462, 개입=Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "PUBMED",
@@ -916,7 +1007,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42899606/",
       "summary": "저널: Revista medica de Chile. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -929,7 +1020,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2242bdd912-2393-44c4-b7e0-47672ca28991%22&limit=1",
       "summary": "성분: SEMAGLUTIDE. 임상 관련 라벨 항목 식별값: 8c913871ae8445. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -942,7 +1033,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%228296f538-4c23-4d6c-be53-8005b83c24b7%22&limit=1",
       "summary": "성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 89e9f52119e77a. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -955,7 +1046,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%220818426a-53eb-4db7-9609-bbae1e7a3964%22&limit=1",
       "summary": "성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 0705ff5b08a51c. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -968,7 +1059,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2278aad975-4971-49fa-b4b0-6aa39f76d2e7%22&limit=1",
       "summary": "성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 0705ff5b08a51c. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -981,7 +1072,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2278b268b4-9215-44b4-b565-fcec315d027c%22&limit=1",
       "summary": "성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 0705ff5b08a51c. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -994,7 +1085,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22f56593f7-588e-489d-9fad-b459e90dab18%22&limit=1",
       "summary": "성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: f41d44089483e2. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -1007,7 +1098,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22334f1b3d-5670-6685-e063-6294a90a7e47%22&limit=1",
       "summary": "성분: EMPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 54949597371607. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "CTGOV",
@@ -1023,6 +1114,19 @@
       "last_seen": "2026-10-30T17:56:26+09:00"
     },
     {
+      "provider": "CTGOV",
+      "uid": "NCT05259033",
+      "drug": "insulin icodec",
+      "kind": "임상시험 등록정보",
+      "event_date": "2026-06-12",
+      "status": "COMPLETED",
+      "title": "A Research Study to See How Well the New Weekly Medicine IcoSema, Which is a Combination of Insulin Icodec and Semaglutide, Controls Blood Sugar Level in People With Type 2 Diabetes Compared to Weekly Semaglutide (COMBINE 2)",
+      "url": "https://clinicaltrials.gov/study/NCT05259033",
+      "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=683, 개입=IcoSema, Semaglutide 1 mg. 임상 효과가 입증됐다는 의미는 아님.",
+      "first_seen": "2026-10-31T07:49:20+09:00",
+      "last_seen": "2026-10-31T07:49:20+09:00"
+    },
+    {
       "provider": "PUBMED",
       "uid": "42890470",
       "drug": "기저인슐린",
@@ -1033,7 +1137,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42890470/",
       "summary": "저널: Diabetes, obesity, and cardiometabolic CARE. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.",
       "first_seen": "2026-10-30T17:18:02+09:00",
-      "last_seen": "2026-10-30T17:56:24+09:00"
+      "last_seen": "2026-10-31T07:49:18+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -1046,7 +1150,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%2227f15fac-7d98-4114-a2ec-92494a91da98%22&limit=1",
       "summary": "성분: SEMAGLUTIDE. 임상 관련 라벨 항목 식별값: c3cce12f06a1cc. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "CTGOV",
@@ -1059,7 +1163,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05662332",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=795, 개입=Insulin Efsitora Alfa, Insulin Glargine. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -1072,7 +1176,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05275400",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=986, 개입=Insulin Degludec, Insulin Efsitora Alfa. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -1085,7 +1189,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05362058",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=928, 개입=Insulin Degludec, Insulin Efsitora Alfa. 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "CTGOV",
@@ -1098,7 +1202,7 @@
       "url": "https://clinicaltrials.gov/study/NCT05462756",
       "summary": "연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=730, 개입=Insulin Efsitora Alfa, Insulin Glargine (U100), Insulin Lispro (U100). 임상 효과가 입증됐다는 의미는 아님.",
       "first_seen": "2026-10-30T17:18:04+09:00",
-      "last_seen": "2026-10-30T17:56:26+09:00"
+      "last_seen": "2026-10-31T07:49:20+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -1111,7 +1215,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22f5e548d0-cc79-4c34-a3f5-e20a5b8b6564%22&limit=1",
       "summary": "성분: SEMAGLUTIDE. 임상 관련 라벨 항목 식별값: ea703d6a9cda68. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -1124,7 +1228,7 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22979e4df4-0597-48ea-b51c-0f699fa6d166%22&limit=1",
       "summary": "성분: SEMAGLUTIDE. 임상 관련 라벨 항목 식별값: bdee9087d907ac. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     },
     {
       "provider": "OPENFDA_LABEL",
@@ -1137,8 +1241,25 @@
       "url": "https://api.fda.gov/drug/label.json?search=set_id%3A%22e6da837c-0da0-41d6-973c-5559bf764367%22&limit=1",
       "summary": "성분: SEMAGLUTIDE. 임상 관련 라벨 항목 식별값: bdee9087d907ac. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.",
       "first_seen": "2026-10-30T17:18:07+09:00",
-      "last_seen": "2026-10-30T17:56:29+09:00"
+      "last_seen": "2026-10-31T07:49:23+09:00"
     }
   ],
-  "changes": []
+  "changes": [
+    {
+      "detected_at": "2026-10-31T07:49:20+09:00",
+      "provider": "CTGOV",
+      "uid": "NCT07866235",
+      "title": "Comparing The Effect Of Empagliflozin With Dapagliflozin In Reducing Proteinuria In Diabetic Patients With Chronic Kidney Disease With eGFR More Than 45ml/Min/1.73m²",
+      "url": "https://clinicaltrials.gov/study/NCT07866235",
+      "drug": "empagliflozin"
+    },
+    {
+      "detected_at": "2026-10-31T07:49:20+09:00",
+      "provider": "CTGOV",
+      "uid": "NCT07547878",
+      "title": "Rapid and Simultaneous Initiation of Four Guideline-Directed CKD Therapies (RAPID-CKD)",
+      "url": "https://clinicaltrials.gov/study/NCT07547878",
+      "drug": "empagliflozin"
+    }
+  ]
 }

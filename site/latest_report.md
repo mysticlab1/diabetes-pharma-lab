@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-10-30 17:56 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-10-31 07:49 KST
 
-최근 90일 이내 자료 85건 / 마지막 수집 2026-10-30T17:56:29+09:00
+최근 90일 이내 자료 93건 / 마지막 수집 2026-10-31T07:49:23+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -16,6 +16,12 @@
 자료원: PUBMED · 논문 색인
 저널: Endocrinology and metabolism clinics of North America. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-15 · 경구 혈당강하제
+[Design and Evaluation of Compritol-Oleic Acid Nanostructured Lipid Carriers: A New Approach to Type 2 Diabetes Therapy.](https://pubmed.ncbi.nlm.nih.gov/42960515/)
+
+자료원: PUBMED · 논문 색인
+저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-01 · GLP-1·GIP / SGLT2
 [Semaglutide and Panic Attacks: Active-Comparator Disproportionality Analysis, Temporal Assessment of Notoriety Bias and Evidence Triangulation in Post-Marketing Pharmacovigilance.](https://pubmed.ncbi.nlm.nih.gov/42946127/)
 
@@ -27,6 +33,36 @@
 
 자료원: PUBMED · 논문 색인
 저널: Allergy and asthma proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-30 · tirzepatide
+[A First-In-Human Study of ARO-INHBE in Adults With Obesity With and Without Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT06700538)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE1', 'PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=190, 개입=ARO-INHBE, Placebo, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-10-30 · dapagliflozin
+[A Phase III Study to Investigate the Efficacy and Safety of the Combination of Elecoglipron and Dapagliflozin in Adults With Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT07662109)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=2000, 개입=Dapagliflozin, Dapagliflozin-matched placebo, Elecoglipron, Elecoglipron-matched placebo. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-10-30 · dapagliflozin / empagliflozin
+[A Study on the Safety and Clinical Efficacy of Guominkang in the Treatment of Diabetic Kidney Disease](https://clinicaltrials.gov/study/NCT07907965)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=15, 개입=Guominkang Granules, Standard Antihypertensive, Antidiabetic, and Lipid-Lowering Regimen. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-10-30 · GLP-1·GIP
+[Glucagon-Like Peptide-1 Analog-Type Amyloidosis: A Case Report and Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/42961329/)
+
+자료원: PUBMED · 논문 색인
+저널: The American Journal of dermatopathology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-30 · 경구 혈당강하제
+[Community health worker intervention to prevent incident type 2 diabetes: A cluster randomized trial.](https://pubmed.ncbi.nlm.nih.gov/42961875/)
+
+자료원: PUBMED · 논문 색인
+저널: PloS one. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-10-29 · dapagliflozin / empagliflozin / tirzepatide
 [Efficacy, Safety, and Treatment Satisfaction of Once-Weekly Tirzepatide in Obese Type 2 Diabetic Patients](https://clinicaltrials.gov/study/NCT07728318)
@@ -245,12 +281,18 @@
 연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=962, 개입=Dapagliflozin, Orforglipron. 임상 효과가 입증됐다는 의미는 아님.
 
 ## 2026-10-16 · semaglutide
+[GLP-1 Receptor Agonists and Alzheimer's Disease: A Multi-National Target Trial Emulation](https://clinicaltrials.gov/study/NCT07677865)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['미상'], 모집상태=WITHDRAWN, 등록인원=0, 개입=DPP-4 Inhibitors, GLP-1 Receptor Agonists. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-10-16 · semaglutide
 [A Research Study Investigating How Adults With Overweight or Obesity, With or Without Type 2 Diabetes, Tolerate Switching to a New Treatment (Zenagamtide) From Their Current Semaglutide Medication](https://clinicaltrials.gov/study/NCT07855133)
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE1'], 모집상태=RECRUITING, 등록인원=60, 개입=Semaglutide, Zenagamtide. 임상 효과가 입증됐다는 의미는 아님.
 
-## 2026-10-13 · dapagliflozin / empagliflozin
+## 2026-10-13 · empagliflozin
 [Rapid and Simultaneous Initiation of Four Guideline-Directed CKD Therapies (RAPID-CKD)](https://clinicaltrials.gov/study/NCT07547878)
 
 자료원: CTGOV · 임상시험 등록정보
@@ -268,7 +310,7 @@
 자료원: PUBMED · 논문 색인
 저널: Metabolism open. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-10-08 · dapagliflozin / empagliflozin
+## 2026-10-08 · empagliflozin
 [Comparing The Effect Of Empagliflozin With Dapagliflozin In Reducing Proteinuria In Diabetic Patients With Chronic Kidney Disease With eGFR More Than 45ml/Min/1.73m²](https://clinicaltrials.gov/study/NCT07866235)
 
 자료원: CTGOV · 임상시험 등록정보
@@ -321,45 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: JAAD case reports. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-09-11 · empagliflozin
-[Evaluation of the Risk of Heart Failure in Patients With Chronic Kidney Disease and Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT07719621)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=COMPLETED, 등록인원=100000, 개입=. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-09-08 · dapagliflozin
-[DAPAGLIFLOZIN](https://api.fda.gov/drug/label.json?search=set_id%3A%2205c3cf00-8c2a-4227-958a-fa5db34512b0%22&limit=1)
-
-자료원: OPENFDA_LABEL · 미국 라벨 버전
-성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 7ee60ec28f5c10. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
-
-## 2026-08-28 · tirzepatide
-[Zepbound](https://api.fda.gov/drug/label.json?search=set_id%3A%22487cd7e7-434c-4925-99fa-aa80b1cc776b%22&limit=1)
-
-자료원: OPENFDA_LABEL · 미국 라벨 버전
-성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 48dd36aa3758ff. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
-
-## 2026-08-27 · tirzepatide
-[Mounjaro](https://api.fda.gov/drug/label.json?search=set_id%3A%22d2d7da5d-ad07-4228-955f-cf7e355c8cc0%22&limit=1)
-
-자료원: OPENFDA_LABEL · 미국 라벨 버전
-성분: TIRZEPATIDE. 임상 관련 라벨 항목 식별값: 7568cbb94cabb7. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
-
-## 2026-08-26 · empagliflozin
-[Jardiance](https://api.fda.gov/drug/label.json?search=set_id%3A%2259ed43d9-b4e0-72a2-e063-6394a90a327d%22&limit=1)
-
-자료원: OPENFDA_LABEL · 미국 라벨 버전
-성분: EMPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 10498873d75225. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
-
-## 2026-08-25 · empagliflozin
-[Synjardy](https://api.fda.gov/drug/label.json?search=set_id%3A%220fdd0255-0055-65f3-b2c0-db8fbb87beae%22&limit=1)
-
-자료원: OPENFDA_LABEL · 미국 라벨 버전
-성분: EMPAGLIFLOZIN, METFORMIN HYDROCHLORIDE. 임상 관련 라벨 항목 식별값: 856e01d9f766fd. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
-
-## 2026-08-24 · empagliflozin
-[Trijardy XR](https://api.fda.gov/drug/label.json?search=set_id%3A%2271873567-9594-452a-bb92-34a129adecac%22&limit=1)
-
-자료원: OPENFDA_LABEL · 미국 라벨 버전
-성분: EMPAGLIFLOZIN, LINAGLIPTIN, METFORMIN HYDROCHLORIDE. 임상 관련 라벨 항목 식별값: 4c62a77a979327. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
