@@ -1,8 +1,8 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-10-30 17:29 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-10-30 17:56 KST
 
-최근 90일 이내 자료 68건 / 마지막 수집 2026-10-30T17:29:13+09:00
+최근 90일 이내 자료 85건 / 마지막 수집 2026-10-30T17:56:29+09:00
 
-**주의:** 국내 MFDS/HIRA 자동 수집은 아직 연결되지 않았으며, 이 자료는 진료·처방 판단용이 아닙니다.
+**주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
 ## 2026-12-31 · GLP-1·GIP
 [Pharmacy students' knowledge and attitudes regarding GLP-1 receptor agonist adverse effects in obesity management: a cross-sectional study.](https://pubmed.ncbi.nlm.nih.gov/42886550/)
