@@ -1,0 +1,28 @@
+{
+  "generated_at_kst": "2026-10-30T15:11:37+09:00",
+  "last_collection_kst": null,
+  "source_health": [
+    {
+      "source": "PubMed",
+      "result": "NOT_RUN",
+      "ran_at": null
+    },
+    {
+      "source": "ClinicalTrials.gov",
+      "result": "NOT_RUN",
+      "ran_at": null
+    },
+    {
+      "source": "openFDA labels",
+      "result": "NOT_RUN",
+      "ran_at": null
+    }
+  ],
+  "limitations": [
+    "국내 MFDS/HIRA 자동 수집 미지원",
+    "논문 제목/서지만 자동 수집",
+    "임상시험 등록은 효과 입증이 아님"
+  ],
+  "events": [],
+  "changes": []
+}

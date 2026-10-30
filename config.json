@@ -1,0 +1,37 @@
+{
+  "project": "당뇨병 치료제 AI 정보분석실",
+  "timezone": "Asia/Seoul",
+  "pubmed_days": 14,
+  "pubmed_queries": [
+    {"name":"GLP-1·GIP","query":"(type 2 diabetes[Title/Abstract]) AND (semaglutide OR tirzepatide OR dulaglutide OR liraglutide)[Title/Abstract]"},
+    {"name":"SGLT2","query":"(type 2 diabetes[Title/Abstract]) AND (empagliflozin OR dapagliflozin OR canagliflozin OR ertugliflozin)[Title/Abstract]"},
+    {"name":"기저인슐린","query":"(type 2 diabetes[Title/Abstract]) AND (insulin icodec OR insulin efsitora OR insulin degludec OR insulin glargine)[Title/Abstract]"},
+    {"name":"경구 혈당강하제","query":"(type 2 diabetes[Title/Abstract]) AND (metformin OR sitagliptin OR linagliptin OR pioglitazone)[Title/Abstract]"}
+  ],
+  "clinical_trials_drugs": ["semaglutide", "tirzepatide", "empagliflozin", "dapagliflozin", "insulin icodec", "insulin efsitora"],
+  "fda_label_drugs": ["semaglutide", "tirzepatide", "empagliflozin", "dapagliflozin", "insulin icodec"],
+  "tracked_drugs": [
+    {"class":"Biguanide","ingredient":"metformin","name_ko":"메트포르민"},
+    {"class":"SGLT2","ingredient":"empagliflozin","name_ko":"엠파글리플로진"},
+    {"class":"SGLT2","ingredient":"dapagliflozin","name_ko":"다파글리플로진"},
+    {"class":"SGLT2","ingredient":"canagliflozin","name_ko":"카나글리플로진"},
+    {"class":"SGLT2","ingredient":"ertugliflozin","name_ko":"에르투글리플로진"},
+    {"class":"GLP-1","ingredient":"semaglutide","name_ko":"세마글루티드"},
+    {"class":"GLP-1","ingredient":"dulaglutide","name_ko":"둘라글루타이드"},
+    {"class":"GLP-1","ingredient":"liraglutide","name_ko":"리라글루티드"},
+    {"class":"GIP/GLP-1","ingredient":"tirzepatide","name_ko":"티르제파타이드"},
+    {"class":"DPP-4","ingredient":"sitagliptin","name_ko":"시타글립틴"},
+    {"class":"DPP-4","ingredient":"linagliptin","name_ko":"리나글립틴"},
+    {"class":"DPP-4","ingredient":"vildagliptin","name_ko":"빌다글립틴"},
+    {"class":"DPP-4","ingredient":"alogliptin","name_ko":"알로글립틴"},
+    {"class":"DPP-4","ingredient":"saxagliptin","name_ko":"삭사글립틴"},
+    {"class":"SU","ingredient":"glimepiride","name_ko":"글리메피리드"},
+    {"class":"SU","ingredient":"gliclazide","name_ko":"글리클라지드"},
+    {"class":"TZD","ingredient":"pioglitazone","name_ko":"피오글리타존"},
+    {"class":"AGI","ingredient":"acarbose","name_ko":"아카보스"},
+    {"class":"Insulin","ingredient":"insulin glargine","name_ko":"인슐린 글라진"},
+    {"class":"Insulin","ingredient":"insulin degludec","name_ko":"인슐린 데글루덱"},
+    {"class":"Insulin","ingredient":"insulin icodec","name_ko":"인슐린 아이코덱"},
+    {"class":"Insulin","ingredient":"insulin efsitora","name_ko":"인슐린 에프시토라"}
+  ]
+}

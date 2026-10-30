@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+*.key
+*.pem
+# SQLite write-ahead transient files
+*.sqlite3-wal
+*.sqlite3-shm
