@@ -15,13 +15,14 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 import pharma_lab as lab
+import domestic_sources as domestic
 
 ROOT = Path(__file__).resolve().parent
 SITE = ROOT / 'site'
 DATA = ROOT / 'data' / 'pharma_lab.sqlite3'
-PROVIDERS = ('PubMed', 'ClinicalTrials.gov', 'openFDA labels')
-PROVIDER_NAMES = {'PUBMED':'PubMed', 'CTGOV':'ClinicalTrials.gov', 'OPENFDA_LABEL':'openFDA'}
-VALID_DOMAINS = {'pubmed.ncbi.nlm.nih.gov','clinicaltrials.gov','api.fda.gov','nedrug.mfds.go.kr'}
+PROVIDERS = ('PubMed', 'ClinicalTrials.gov', 'openFDA labels', '식약처 품목정보', '심평원 성분정보')
+PROVIDER_NAMES = {'PUBMED':'PubMed', 'CTGOV':'ClinicalTrials.gov', 'OPENFDA_LABEL':'openFDA', 'MFDS_PERMIT':'식약처', 'HIRA_INGREDIENT':'심평원'}
+VALID_DOMAINS = {'pubmed.ncbi.nlm.nih.gov','clinicaltrials.gov','api.fda.gov','nedrug.mfds.go.kr','www.data.go.kr'}
 
 def esc(value):
     return html.escape(str(value or ''), quote=True)
@@ -41,6 +42,16 @@ def run_fetches(con, config):
         ('ClinicalTrials.gov', lambda: lab.fetch_trials(con, config)),
         ('openFDA labels', lambda: lab.fetch_fda_labels(con, config)),
     ]
+    key = os.getenv('DATA_GO_KR_API_KEY', '').strip()
+    if key:
+        jobs.extend([
+            ('식약처 품목정보', lambda: domestic.fetch_mfds(con, config, key)),
+            ('심평원 성분정보', lambda: domestic.fetch_hira(con, config, key)),
+        ])
+    else:
+        # Never count unconfigured adapters as successful sources.
+        for name in ('식약처 품목정보','심평원 성분정보'):
+            lab.record_run(con, name, 'NOT_CONFIGURED', '공공데이터포털 API 인증키 필요')
     errors = []
     for name, job in jobs:
         try:
@@ -59,14 +70,18 @@ def render(con, days=90, max_events=300):
     rows = lab.get_state(con)
     now = lab.now_kst()
     cutoff = (now.date() - dt.timedelta(days=days)).isoformat()
-    recent = [x for x in rows if x['event_date'] >= cutoff or x['event_date'] == '미상'][:max_events]
+    recent = [x for x in rows if x['event_date'] >= cutoff or x['event_date'] == '미상'
+              or x['first_seen'][:10] >= (now.date()-dt.timedelta(days=14)).isoformat()][:max_events]
     runs = lab.latest_runs(con)
     # Verify source health based ONLY on the newest row per provider.
     by_source = {}
     for run in runs:
         if run['source'] in PROVIDERS and run['source'] not in by_source:
             by_source[run['source']] = run
-    errors = [x for x in by_source.values() if x['result'] != 'ok']
+    errors = [x for x in by_source.values() if x['result'] == 'ERROR']
+    optional_ready = ('식약처 품목정보' in by_source and by_source['식약처 품목정보']['result'] != 'NOT_CONFIGURED')
+    configured = [s for s in PROVIDERS if s in by_source and by_source[s]['result'] != 'NOT_CONFIGURED']
+    passed = [s for s in configured if by_source[s]['result'] == 'ok']
     changes = [dict(x) for x in con.execute('''SELECT change_log.detected_at, change_log.provider, change_log.uid,
        events.title, events.url, events.drug FROM change_log
        LEFT JOIN events ON events.provider=change_log.provider AND events.uid=change_log.uid
@@ -78,19 +93,36 @@ def render(con, days=90, max_events=300):
         date = e['event_date']
         first = e['first_seen']
         is_recently_discovered = bool(last_collection and first >= recent_first_seen)
-        label = ('이 시스템에서 최근 발견' if is_recently_discovered else '기존 수집 자료')
+        label = ('최근 수집' if is_recently_discovered else '이전 수집')
+        is_future_issue = bool(re.match(r'^\d{4}-\d{2}-\d{2}$', date) and date > now.date().isoformat() and e['provider'] == 'PUBMED')
+        date_note = '예정된 서지·권호 날짜' if is_future_issue else ('최종 게시/라벨 날짜 등' if e['provider']!='PUBMED' else '논문 색인 날짜')
+        is_fresh_publication = bool(not is_future_issue and re.match(r'^\d{4}-\d{2}-\d{2}$',date) and
+                                    (now.date()-dt.timedelta(days=7)).isoformat() <= date <= now.date().isoformat())
+        marker = '최근 날짜' if is_fresh_publication else ('미래 서지 날짜' if is_future_issue else '자료')
         name = PROVIDER_NAMES.get(e['provider'], e['provider'])
         title = esc(e['title'])
         summary = esc(e['summary'])
         href = sanitize_url(e['url'])
-        cards.append(f'''<article class="item" data-category="{esc(e['provider'])}" data-search="{esc((e['title']+' '+e['drug']+' '+e['summary']).lower())}">
-        <div class="topline"><span class="source">{esc(name)}</span><span class="date">{esc(date)}</span></div>
+        cards.append(f'''<article class="item" data-category="{esc(e['provider'])}" data-state="{('recent ' if is_recently_discovered else 'archive ') + ('pub7' if is_fresh_publication else '')}" data-search="{esc((e['title']+' '+e['drug']+' '+e['summary']).lower())}">
+        <div class="topline"><span class="source">{esc(name)}</span><span class="date" title="{esc(date_note)}">{esc(date)} · {esc(marker)}</span></div>
         <h3><a href="{href}" target="_blank" rel="noopener noreferrer">{title}</a></h3>
         <div class="drug">{esc(e['drug'])} · {esc(e['kind'])}</div>
         <p>{summary}</p><div class="footline"><span>{esc(label)} · 최초 수집 {esc(first[:16])} KST</span><a href="{href}" rel="noopener noreferrer" target="_blank">공식 원문 ↗</a></div></article>''')
-    runs_html = ''.join(f'<li class="{("error" if r["result"]!="ok" else "good")}"><b>{esc(r["source"])}</b> {"오류" if r["result"]!="ok" else "정상"} <small>{esc(r["ran_at"][:16])} KST</small></li>' for r in by_source.values())
+    # Technical review queue: newly updated records and recent discoveries. This
+    # is not a clinical safety or treatment priority ranking.
+    changed_keys={(x['provider'],x['uid']) for x in changes}
+    priority_candidates=sorted(recent, key=lambda e:(
+        (e['provider'],e['uid']) in changed_keys,
+        e['first_seen'][:10]>=(now.date()-dt.timedelta(days=2)).isoformat(),
+        e['provider'] in ('OPENFDA_LABEL','CTGOV'),
+        e['first_seen']), reverse=True)[:5]
+    priority_html=''.join('<li><span class="source">'+esc(PROVIDER_NAMES.get(e['provider'],e['provider']))+'</span> '
+      + '<a href="'+sanitize_url(e['url'])+'" target="_blank" rel="noopener noreferrer">'+esc(e['title'])+'</a>'
+      + '<small> · '+('기존 자료의 변경 감지' if (e['provider'],e['uid']) in changed_keys else '수집 후보')+'</small></li>'
+      for e in priority_candidates)
+    runs_html = ''.join(f'<li class="{("good" if r["result"]=="ok" else "error")}"><b>{esc(r["source"])}</b> {"정상" if r["result"]=="ok" else ("인증키 미설정" if r["result"]=="NOT_CONFIGURED" else "오류")} <small>{esc(r["ran_at"][:16])} KST</small></li>' for r in by_source.values())
     changes_html = ''.join(f'<li><span class="chgdate">{esc(c["detected_at"][:16])}</span><a href="{sanitize_url(c["url"] or "")}" target="_blank" rel="noopener noreferrer">{esc(c["title"] or c["uid"])}</a><small>{esc(c["provider"])}</small></li>' for c in changes)
-    status = '수집 실행 전' if not by_source else ('일부 자료원 오류' if errors else '3개 자료원 마지막 실행 성공')
+    status = '수집 실행 전' if not by_source else ('일부 자료원 오류' if errors else f'{len(passed)}개 활성 자료원 마지막 실행 성공')
     info = '첫 자동 수집을 실행하면 이 자리에 공식 자료가 나타납니다.' if not by_source else ('오류가 있는 자료원은 최신성 보장 불가. 아래 상태 확인.' if errors else '마지막 실행 결과이며 포괄적 정보 감시를 보장하지 않습니다.')
     ai_link = ('<div class="alert note"><a href="ai_review.html"><b>AI 선별·검토 질문 초안 보기 →</b></a> (API 키가 설정된 경우에만 생성, 약사 검토 필요)</div>' if (SITE/'ai_review.html').exists() else '')
     health = ('<div class="alert warn">일부 자료원의 자동 수집에 문제가 있어 최신성을 보장할 수 없습니다. 자료원 상태를 확인하세요.</div>' if errors else '')
@@ -116,13 +148,15 @@ h3{font-size:16px;line-height:1.48;margin:13px 0 8px;overflow-wrap:anywhere}a{co
     cards_html = '\n'.join(cards) if cards else '<div class="empty">표시할 자료가 없습니다. 이는 새로운 의약품 정보가 없다는 뜻이 아닙니다.</div>'
     full_html = f'''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="refresh" content="1800"><meta name="description" content="당뇨병 치료제 PubMed, ClinicalTrials.gov, openFDA 공식 공개 정보 모니터링"><title>당뇨병 치료제 AI 정보분석실</title><style>{css}</style></head><body>
 <main class="container"><header class="hero"><div class="eyebrow">DIABETES PHARMA INTELLIGENCE</div><h1>당뇨병 치료제 정보분석실</h1><p>공식 자료를 정기 수집하고 변경을 기록하는 개인 약학 정보 대시보드</p><div class="label" style="color:#d4e4f5">생성 시각: {esc(now.strftime('%Y-%m-%d %H:%M'))} KST · {esc(days)}일 이내 사건 표시</div></header>
-<div class="metrics"><div class="metric"><strong>{len(recent)}</strong><span>표시된 사건</span></div><div class="metric"><strong>{len({x['uid'] for x in recent})}</strong><span>고유 자료 ID</span></div><div class="metric"><strong>{len(changes)}</strong><span>최근 변경 기록(최대 30건)</span></div><div class="metric"><strong>{len(by_source)}/3</strong><span>자료원 수집 실행</span></div></div>
-{health}{ai_link}<div class="alert note"><b>국내 식약처·심평원:</b> 자동 수집 미연결. 따라서 이 사이트만으로 국내 허가사항·급여 변경을 감시했다고 볼 수 없습니다. <a href="https://nedrug.mfds.go.kr/" target="_blank" rel="noopener noreferrer">의약품안전나라</a> · <a href="https://www.hira.or.kr/" target="_blank" rel="noopener noreferrer">심평원</a>에서 별도 확인하세요.</div>
-<section><div class="sectionHead"><h2>자료 목록</h2><small>제목·서지·등록·라벨 버전의 정보 수집이며 임상적 결론 아님</small></div><div class="toolbar"><input id="q" type="search" placeholder="약물명·논문 제목 검색" aria-label="자료 검색"><select id="category" aria-label="자료원"><option value="">모든 자료원</option><option value="PUBMED">PubMed 논문</option><option value="CTGOV">ClinicalTrials.gov 임상시험</option><option value="OPENFDA_LABEL">openFDA 미국 라벨</option></select></div><p id="count" class="label" aria-live="polite">전체 {len(recent)}건</p><div id="items" class="items">{cards_html}</div></section>
+<div class="metrics"><div class="metric"><strong>{len(recent)}</strong><span>표시된 사건</span></div><div class="metric"><strong>{len({x['uid'] for x in recent})}</strong><span>고유 자료 ID</span></div><div class="metric"><strong>{len(changes)}</strong><span>최근 변경 기록(최대 30건)</span></div><div class="metric"><strong>{len(passed)}/{len(configured)}</strong><span>활성 자료원 성공</span></div></div>
+{health}{ai_link}<div class="alert note"><b>국내 자료 연결:</b> {'공공데이터포털 인증키로 식약처 품목목록·심평원 성분분류 시범 조회 중' if optional_ready else '인증키 미설정 — 현재 국내 자료 자동 수집 없음'}. <b>중요:</b> 이 두 API는 안전성서한·허가사항 변경대비표·급여기준 개정의 감시가 아닙니다. <a href="https://nedrug.mfds.go.kr/" target="_blank" rel="noopener noreferrer">의약품안전나라</a> · <a href="https://www.hira.or.kr/" target="_blank" rel="noopener noreferrer">심평원</a> 원문을 확인하세요.</div>
+<div class="alert note"><b>날짜 해석:</b> '최근 수집'은 이 프로그램이 처음 본 시점이며 자료의 실제 최초 발표일이 아닙니다. 논문의 미래 날짜는 예정 권호·서지 날짜일 수 있습니다. 임상시험의 날짜는 등록정보 갱신일입니다.</div>
+<section><div class="sectionHead"><h2>우선 확인할 자료</h2><small>자료 변경·최근 수집 중심의 기술적 정렬 — 임상 중요도 판정 아님</small></div><div class="panel"><ul class="changes">{priority_html or '<li>검토 후보 없음</li>'}</ul></div></section>
+<section><div class="sectionHead"><h2>자료 목록</h2><small>제목·서지·등록·라벨 버전의 정보 수집이며 임상적 결론 아님</small></div><div class="toolbar"><input id="q" type="search" placeholder="약물명·논문 제목 검색" aria-label="자료 검색"><select id="category" aria-label="자료원"><option value="">모든 자료원</option><option value="PUBMED">PubMed 논문</option><option value="CTGOV">ClinicalTrials.gov 임상시험</option><option value="OPENFDA_LABEL">openFDA 미국 라벨</option><option value="MFDS_PERMIT">식약처 품목정보</option><option value="HIRA_INGREDIENT">심평원 성분분류</option></select><select id="state" aria-label="최근 여부"><option value="">전체 수집 자료</option><option value="recent">이 시스템에서 최근 수집</option><option value="pub7">최근 7일 자료일</option><option value="archive">이전 수집 자료</option></select></div><p id="count" class="label" aria-live="polite">전체 {len(recent)}건</p><div id="items" class="items">{cards_html}</div></section>
 <section><div class="sectionHead"><h2>자료원 실행 상태</h2><small>마지막 수집: {esc(last_collection[:16] if last_collection else '아직 없음')} KST</small></div><div class="panel"><p>{esc(status)} — {esc(info)}</p><ul class="statuses">{runs_html or '<li>아직 수집 내역 없음</li>'}</ul></div></section>
 <section><div class="sectionHead"><h2>동일 자료의 변경 이력</h2><small>최근 {len(changes)}건 표시</small></div><div class="panel"><p class="label">기존에 저장한 자료 ID에서 변경된 내용이 감지되면 기록됩니다. 새로운 자료가 추가됐다는 뜻이나 위험성 증가를 의미하지 않습니다.</p><ol class="changes">{changes_html or '<li>아직 변경 감지 기록이 없습니다.</li>'}</ol></div></section>
 <footer class="footer">⚕ 정보수집·연구 보조용. 환자 개인 진료 및 처방 변경 판단에 직접 사용하지 마세요. FDA 라벨은 미국 자료이며 국내 허가·급여와 다릅니다. PubMed 서지자료는 연구 결과를 검증하지 않습니다. 논문 전문은 해당 저작권과 NLM 이용정책을 따라야 합니다. <a href="https://www.ncbi.nlm.nih.gov/home/about/policies/" rel="noopener" target="_blank">NCBI policies</a></footer></main>
-<script>(function(){{const q=document.getElementById('q'),c=document.getElementById('category'),items=[...document.querySelectorAll('.item')],count=document.getElementById('count')];function render(){{let n=0;for(const el of items){{const hit=el.dataset.search.includes(q.value.toLowerCase().trim())&&(!c.value||c.value===el.dataset.category);el.hidden=!hit;if(hit)n++;}}count.textContent='검색 결과 '+n+'건';}}q.addEventListener('input',render);c.addEventListener('change',render);}})();</script>
+<script>(function(){{const q=document.getElementById('q'),c=document.getElementById('category'),s=document.getElementById('state'),items=[...document.querySelectorAll('.item')],count=document.getElementById('count');function render(){{let n=0;for(const el of items){{const hit=el.dataset.search.includes(q.value.toLowerCase().trim())&&(!c.value||c.value===el.dataset.category)&&(!s.value||el.dataset.state.split(' ').includes(s.value));el.hidden=!hit;if(hit)n++;}}count.textContent='검색 결과 '+n+'건';}}q.addEventListener('input',render);c.addEventListener('change',render);s.addEventListener('change',render);}})();</script>
 <style>.item[hidden]{{display:none!important}}</style></body></html>'''
     (SITE/'index.html').write_text(full_html, encoding='utf-8')
     (SITE/'.nojekyll').write_text('',encoding='utf-8')
@@ -130,14 +164,14 @@ h3{font-size:16px;line-height:1.48;margin:13px 0 8px;overflow-wrap:anywhere}a{co
         'generated_at_kst': now.isoformat(timespec='seconds'),
         'last_collection_kst': last_collection,
         'source_health': [{'source':s, 'result':by_source[s]['result'] if s in by_source else 'NOT_RUN', 'ran_at':by_source[s]['ran_at'] if s in by_source else None} for s in PROVIDERS],
-        'limitations': ['국내 MFDS/HIRA 자동 수집 미지원', '논문 제목/서지만 자동 수집', '임상시험 등록은 효과 입증이 아님'],
+        'limitations': ['국내 품목·성분 API는 인증키 설정 시 일부 조회만 지원; 허가/급여변경 감시 아님', 'AI 분석은 별도 API 키 필요; 초록 없으면 결과분석 불가', '임상시험 등록은 효과 입증이 아님'],
         'events': [{k: e[k] for k in ('provider','uid','drug','kind','event_date','status','title','url','summary','first_seen','last_seen')} for e in recent],
         'changes': changes,
     }
     (SITE/'feed.json').write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
     lines = [f'# 당뇨병 치료제 정보 브리핑 — {now.strftime("%Y-%m-%d %H:%M")} KST','',
              f'최근 {days}일 이내 자료 {len(recent)}건 / 마지막 수집 {last_collection or "실행 전"}', '',
-             '**주의:** 국내 MFDS/HIRA 자동 수집은 아직 연결되지 않았으며, 이 자료는 진료·처방 판단용이 아닙니다.','']
+             '**주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.','']
     for e in recent[:60]:
         title = e['title'].replace('\\','\\\\').replace('[','\\[').replace(']','\\]')
         lines += [f'## {e["event_date"]} · {e["drug"]}',f'[{title}]({e["url"]})','',f'자료원: {e["provider"]} · {e["kind"]}',e['summary'],'']

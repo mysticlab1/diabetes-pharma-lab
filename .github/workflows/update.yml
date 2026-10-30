@@ -12,6 +12,8 @@ on:
       - 'pharma_lab.py'
       - 'update_site.py'
       - 'ai_brief.py'
+      - 'domestic_sources.py'
+      - 'pubmed_evidence.py'
       - '.github/workflows/update.yml'
 
 permissions:
@@ -39,8 +41,9 @@ jobs:
       - name: Fetch official sources and build dashboard
         env:
           PHARMA_CONTACT_EMAIL: ${{ vars.PHARMA_CONTACT_EMAIL }}
+          DATA_GO_KR_API_KEY: ${{ secrets.DATA_GO_KR_API_KEY }}
         run: python update_site.py --live
-      - name: Optional AI triage (only if a secret key is configured)
+      - name: Optional abstract-based AI review (only if a secret key is configured)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
