@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-10-31 07:49 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-01 07:47 KST
 
-최근 90일 이내 자료 93건 / 마지막 수집 2026-10-31T07:49:23+09:00
+최근 90일 이내 자료 97건 / 마지막 수집 2026-11-01T07:47:00+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -63,6 +63,30 @@
 
 자료원: PUBMED · 논문 색인
 저널: PloS one. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-30 · SGLT2
+[Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports.](https://pubmed.ncbi.nlm.nih.gov/42962309/)
+
+자료원: PUBMED · 논문 색인
+저널: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-30 · GLP-1·GIP
+[Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/42962687/)
+
+자료원: PUBMED · 논문 색인
+저널: The lancet. Diabetes & endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-30 · GLP-1·GIP
+[Activities of daily living and health status benefits of semaglutide in very old patients with heart failure, type 2 diabetes, and obesity: Real-world practice study.](https://pubmed.ncbi.nlm.nih.gov/42963299/)
+
+자료원: PUBMED · 논문 색인
+저널: Medicina clinica. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-30 · SGLT2
+[Empagliflozin's role in cardiometabolic disease treatment: an Egyptian expert's view.](https://pubmed.ncbi.nlm.nih.gov/42963793/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetology & metabolic syndrome. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-10-29 · dapagliflozin / empagliflozin / tirzepatide
 [Efficacy, Safety, and Treatment Satisfaction of Once-Weekly Tirzepatide in Obese Type 2 Diabetic Patients](https://clinicaltrials.gov/study/NCT07728318)
@@ -339,27 +363,3 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=17200, 개입=Dapagliflozin 10 MG, Empagliflozin 10 MG. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-09-18 · insulin icodec
-[A Research Study to Examine Blood Sugar Control, Treatment Satisfaction and Adherence in People With Type 2 Diabetes After Switching From Daily Basal Insulin to Once-weekly Insulin Icodec](https://clinicaltrials.gov/study/NCT07632404)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=214, 개입=Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-09-15 · insulin icodec
-[A Phase I Study of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Single Subcutaneous UBT38006 Injection in Healthy Adult Males](https://clinicaltrials.gov/study/NCT07630233)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE1'], 모집상태=RECRUITING, 등록인원=53, 개입=Insulin Degludec Injection, Insulin Icodec Injection, Placebo, UBT38006. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-09-15 · insulin icodec
-[Research Study to Examine Blood Sugar Control, Treatment Satisfaction and Adherence in People With Type 2 Diabetes After Switching From Daily Basal Insulin to Once-weekly Insulin Icodec](https://clinicaltrials.gov/study/NCT07658417)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=216, 개입=Insulin icodec. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-09-15 · GLP-1·GIP
-[Dulaglutide-associated interstitial granulomatous dermatitis: A case report.](https://pubmed.ncbi.nlm.nih.gov/42903917/)
-
-자료원: PUBMED · 논문 색인
-저널: JAAD case reports. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
