@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-02 07:47 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-03 07:53 KST
 
-최근 90일 이내 자료 97건 / 마지막 수집 2026-11-02T07:47:30+09:00
+최근 90일 이내 자료 107건 / 마지막 수집 2026-11-03T07:53:30+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -22,6 +22,60 @@
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-02 · semaglutide
+[Research Study to Look at How Well Semaglutide Works in People Living With Heart Failure, Obesity and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT04916470)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=617, 개입=Placebo (Semaglutide), Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-02 · dapagliflozin / empagliflozin
+[A Study on the Safety and Clinical Efficacy of Guominkang in the Treatment of Diabetic Kidney Disease](https://clinicaltrials.gov/study/NCT07907965)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=15, 개입=Guominkang Granules, Standard Antihypertensive, Antidiabetic, and Lipid-Lowering Regimen. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-02 · SGLT2
+[Nano-emulsification and soft gel encapsulation to improve the delivery of anti-diabetic drug ertugliflozin-L-pyroglutamic acid via SNEDDS: an in vitro assessment using RP-HPLC.](https://pubmed.ncbi.nlm.nih.gov/42911193/)
+
+자료원: PUBMED · 논문 색인
+저널: Drug development and industrial pharmacy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-02 · 경구 혈당강하제
+[Influence of Pharmacogenomic Variants on Glycemic Control in Type 2 Diabetes Mellitus: An Exploratory Association Study.](https://pubmed.ncbi.nlm.nih.gov/42969311/)
+
+자료원: PUBMED · 논문 색인
+저널: Annals of African medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-02 · SGLT2
+[Changes in liver steatosis and liver stiffness following Empagliflozin treatment in patients with MASLD and type 2 diabetes: A single-arm pre-post study.](https://pubmed.ncbi.nlm.nih.gov/42969364/)
+
+자료원: PUBMED · 논문 색인
+저널: Journal of diabetes investigation. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-02 · GLP-1·GIP
+[Semaglutide and Cardiovascular Death: a Systematic Review and Meta-Analysis Cardioprotective Efficacy of Semaglutide.](https://pubmed.ncbi.nlm.nih.gov/42969445/)
+
+자료원: PUBMED · 논문 색인
+저널: Critical pathways in cardiology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-02 · GLP-1·GIP / SGLT2
+[GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42969666/)
+
+자료원: PUBMED · 논문 색인
+저널: Balkan medical journal. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-02 · GLP-1·GIP
+[PET Imaging of Dual GLP-1R and GIPR Targeting with \[18F\]AlF-NOTA-Asp2-Tirzepatide.](https://pubmed.ncbi.nlm.nih.gov/42969740/)
+
+자료원: PUBMED · 논문 색인
+저널: Molecular pharmaceutics. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-02 · SGLT2 / 경구 혈당강하제
+[Efficacy and Safety of Dapagliflozin, Glimepiride, and Metformin Fixed-Dose Combination Tablet in Type 2 Diabetes: A Phase III Trial.](https://pubmed.ncbi.nlm.nih.gov/42970163/)
+
+자료원: PUBMED · 논문 색인
+저널: Advances in therapy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-01 · GLP-1·GIP / SGLT2
 [Semaglutide and Panic Attacks: Active-Comparator Disproportionality Analysis, Temporal Assessment of Notoriety Bias and Evidence Triangulation in Post-Marketing Pharmacovigilance.](https://pubmed.ncbi.nlm.nih.gov/42946127/)
 
@@ -34,6 +88,24 @@
 자료원: PUBMED · 논문 색인
 저널: Allergy and asthma proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-01 · SGLT2
+[Comparative Efficacy and Safety of Saroglitazar and Dapagliflozin on Hepatic Steatosis and Glycemic Control in Patients With Metabolic Dysfunction-Associated Steatotic Liver Disease: A 25-Week Prospective Multicenter Comparative Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42967591/)
+
+자료원: PUBMED · 논문 색인
+저널: Endocrinology, diabetes & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-01 · GLP-1·GIP
+[Tirzepatide-associated severe euvolemic hyponatremia with syndrome of inappropriate antidiuretic hormone secretion-compatible biochemical features.](https://pubmed.ncbi.nlm.nih.gov/42969999/)
+
+자료원: PUBMED · 논문 색인
+저널: Indian journal of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-10-31 · GLP-1·GIP
+[Baseline monocyte GIP receptor mRNA expression is associated with reductions in body weight and FIB-4 index after switching to tirzepatide in patients with type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/42968811/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetology international. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-10-30 · tirzepatide
 [A First-In-Human Study of ARO-INHBE in Adults With Obesity With and Without Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT06700538)
 
@@ -45,12 +117,6 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=2000, 개입=Dapagliflozin, Dapagliflozin-matched placebo, Elecoglipron, Elecoglipron-matched placebo. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-30 · dapagliflozin / empagliflozin
-[A Study on the Safety and Clinical Efficacy of Guominkang in the Treatment of Diabetic Kidney Disease](https://clinicaltrials.gov/study/NCT07907965)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=15, 개입=Guominkang Granules, Standard Antihypertensive, Antidiabetic, and Lipid-Lowering Regimen. 임상 효과가 입증됐다는 의미는 아님.
 
 ## 2026-10-30 · GLP-1·GIP
 [Glucagon-Like Peptide-1 Analog-Type Amyloidosis: A Case Report and Review of the Literature.](https://pubmed.ncbi.nlm.nih.gov/42961329/)
@@ -220,12 +286,6 @@
 자료원: PUBMED · 논문 색인
 저널: Anesthesia and pain medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-10-22 · SGLT2
-[Nano-Emulsification and Soft Gel Encapsulation to Improve the Delivery of Anti-Diabetic Drug Ertugliflozin-L-Pyroglutamic Acid via SNEDDS: An In Vitro Assessment using RP-HPLC.](https://pubmed.ncbi.nlm.nih.gov/42911193/)
-
-자료원: PUBMED · 논문 색인
-저널: Drug development and industrial pharmacy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
 ## 2026-10-20 · dapagliflozin
 [dApagliflozin SC0062 and Prevention of Renal Injury; a Randomized Evaluation](https://clinicaltrials.gov/study/NCT06072326)
 
@@ -244,7 +304,7 @@
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['미상'], 모집상태=NOT_YET_RECRUITING, 등록인원=330, 개입=. 임상 효과가 입증됐다는 의미는 아님.
 
-## 2026-10-19 · semaglutide / tirzepatide
+## 2026-10-19 · semaglutide
 [A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor](https://clinicaltrials.gov/study/NCT06221969)
 
 자료원: CTGOV · 임상시험 등록정보
@@ -303,63 +363,3 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=962, 개입=Dapagliflozin, Orforglipron. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-16 · semaglutide
-[GLP-1 Receptor Agonists and Alzheimer's Disease: A Multi-National Target Trial Emulation](https://clinicaltrials.gov/study/NCT07677865)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=WITHDRAWN, 등록인원=0, 개입=DPP-4 Inhibitors, GLP-1 Receptor Agonists. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-16 · semaglutide
-[A Research Study Investigating How Adults With Overweight or Obesity, With or Without Type 2 Diabetes, Tolerate Switching to a New Treatment (Zenagamtide) From Their Current Semaglutide Medication](https://clinicaltrials.gov/study/NCT07855133)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE1'], 모집상태=RECRUITING, 등록인원=60, 개입=Semaglutide, Zenagamtide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-13 · empagliflozin
-[Rapid and Simultaneous Initiation of Four Guideline-Directed CKD Therapies (RAPID-CKD)](https://clinicaltrials.gov/study/NCT07547878)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=64, 개입=Accupril, Aceon, Altace, Atacand, Avapro, Benicar, Brenzavvy, Capoten. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-13 · empagliflozin
-[Bioequivalence Study to Compare Empagliflozin/Linagliptin/Metformin HCl25 mg/5 mg/1000 mg Extended Release Tablet Versus Trijardy® XR 25 mg/5 mg/1000 mg Extended- Release Tablets](https://clinicaltrials.gov/study/NCT07872358)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE1'], 모집상태=COMPLETED, 등록인원=36, 개입=Empagliflozin/Linagliptin/Metformin HCl Extended Release Tablet, Trijardy® XR Tablets. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-10 · 경구 혈당강하제
-[Hepatic biomarker trajectories and mortality in septic adults with type 2 diabetes and recorded dipeptidyl peptidase-4 inhibitor exposure versus metformin-based therapy: A propensity-score-matched cohort study.](https://pubmed.ncbi.nlm.nih.gov/42898695/)
-
-자료원: PUBMED · 논문 색인
-저널: Metabolism open. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-08 · empagliflozin
-[Comparing The Effect Of Empagliflozin With Dapagliflozin In Reducing Proteinuria In Diabetic Patients With Chronic Kidney Disease With eGFR More Than 45ml/Min/1.73m²](https://clinicaltrials.gov/study/NCT07866235)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['NA'], 모집상태=COMPLETED, 등록인원=116, 개입=Dapagliflozin, Empagliflozin (EMPA). 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-05 · SGLT2
-[Comparative risk assessment of cardiovascular and kidney outcomes in patients with type 2 diabetes using cystatin C and creatinine in DECLARE-TIMI 58.](https://pubmed.ncbi.nlm.nih.gov/42935495/)
-
-자료원: PUBMED · 논문 색인
-저널: American heart journal plus : cardiology research and practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-05 · GLP-1·GIP
-[Real-world effectiveness of liraglutide in children with type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/42936196/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of the Endocrine Society. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-09-24 · 기저인슐린
-[IcoSema in Weight Management and Glycaemic Control: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42928846/)
-
-자료원: PUBMED · 논문 색인
-저널: Cureus. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-09-18 · empagliflozin
-[A Pragmatic Trial Comparing Empagliflozin and Dapagliflozin Through Cluster Randomization Embedded in the Electronic Health Record](https://clinicaltrials.gov/study/NCT06642272)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=17200, 개입=Dapagliflozin 10 MG, Empagliflozin 10 MG. 임상 효과가 입증됐다는 의미는 아님.
