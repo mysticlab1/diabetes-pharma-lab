@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-04 07:57 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-05 07:58 KST
 
-최근 90일 이내 자료 112건 / 마지막 수집 2026-11-04T07:57:39+09:00
+최근 90일 이내 자료 122건 / 마지막 수집 2026-11-05T07:58:10+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -22,23 +22,47 @@
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-04 · semaglutide / tirzepatide
+[A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide](https://clinicaltrials.gov/study/NCT06897475)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=RECRUITING, 등록인원=200, 개입=LY3457263, Placebo. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-04 · tirzepatide
+[AI-Assisted Lifestyle Intervention Versus Tirzepatide for Obesity and Newly Diagnosed Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07697391)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=285, 개입=AI-Assisted Intensive Lifestyle Intervention, Standard Lifestyle Management, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-04 · tirzepatide
+[A Study of EloraTZP in Adult Participants With Obesity or Overweight and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881458)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=1000, 개입=Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-04 · empagliflozin
+[Effect of Empagliflozin on Liver Fat in Patients With Type 2 Diabetes and Nonalcoholic Fatty Liver Disease](https://clinicaltrials.gov/study/NCT07915596)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['미상'], 모집상태=COMPLETED, 등록인원=792, 개입=Empagliflozin 10/15 mg administered orally once daily in addition to standard treatment for type 2 diabetes mellitus.. 임상 효과가 입증됐다는 의미는 아님.
+
 ## 2026-11-04 · SGLT2 / 경구 혈당강하제
 [Bexagliflozin: pharmacological profile and clinical applications of a sodium-glucose cotransporter 2 inhibitor.](https://pubmed.ncbi.nlm.nih.gov/42975136/)
 
 자료원: PUBMED · 논문 색인
 저널: Journal of basic and clinical physiology and pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-04 · GLP-1·GIP
+[Tirzepatide for the treatment of obstructive sleep apnea: from apnea-hypopnea index reduction to cardiometabolic risk mitigation-a narrative review.](https://pubmed.ncbi.nlm.nih.gov/42979856/)
+
+자료원: PUBMED · 논문 색인
+저널: Multidisciplinary respiratory medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-03 · tirzepatide
 [A Study of EloraTZP in Adult Participants With Obesity Without Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881432)
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=2115, 개입=Eloralintide, Placebo, Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-03 · tirzepatide
-[A Study of EloraTZP in Adult Participants With Obesity or Overweight and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881458)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=1000, 개입=Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
 
 ## 2026-11-03 · GLP-1·GIP
 [Modern antidiabetic therapy in older adults with type 2 diabetes: evidence, best practice and a clinical pharmacist's framework.](https://pubmed.ncbi.nlm.nih.gov/42911774/)
@@ -63,6 +87,42 @@
 
 자료원: PUBMED · 논문 색인
 저널: Cardiology in review. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-03 · 경구 혈당강하제
+[Comparative effects of SGLT2 inhibitors, pioglitazone, DPP-4 inhibitors, and sulfonylureas on dementia risk in type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/42976518/)
+
+자료원: PUBMED · 논문 색인
+저널: The journal of prevention of Alzheimer's disease. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-03 · 경구 혈당강하제
+[Metformin-supportive nutrition: When gut microbes eat drugs.](https://pubmed.ncbi.nlm.nih.gov/42976769/)
+
+자료원: PUBMED · 논문 색인
+저널: Cell metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-03 · 경구 혈당강하제
+[Effect of metformin use in patients with type 2 diabetes mellitus on the risk of a first acute pancreatitis event, severe acute pancreatitis and progression to chronic pancreatitis: a cohort discovery study.](https://pubmed.ncbi.nlm.nih.gov/42977330/)
+
+자료원: PUBMED · 논문 색인
+저널: BMJ open gastroenterology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-03 · GLP-1·GIP
+[Changes in Metabolic and Blood Pressure Outcomes With Semaglutide Across Chronic Kidney Disease Stages: A Post Hoc Analysis of the FLOW Trial.](https://pubmed.ncbi.nlm.nih.gov/42977539/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-03 · GLP-1·GIP
+[Semaglutide, Tirzepatide and Clinically Recorded Alcohol-Related Outcomes in Type 2 Diabetes: A Target Trial Emulation.](https://pubmed.ncbi.nlm.nih.gov/42977546/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-03 · SGLT2 / 경구 혈당강하제
+[β-Cell Recovery Patterns With Initial Combination Versus Stepwise Therapy in Newly Diagnosed Type 2 Diabetes: TRIPLE-AXEL Post Hoc Analysis.](https://pubmed.ncbi.nlm.nih.gov/42977550/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-02 · semaglutide
 [Research Study to Look at How Well Semaglutide Works in People Living With Heart Failure, Obesity and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT04916470)
@@ -100,7 +160,7 @@
 자료원: PUBMED · 논문 색인
 저널: Critical pathways in cardiology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-02 · GLP-1·GIP / SGLT2
+## 2026-11-02 · SGLT2
 [GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42969666/)
 
 자료원: PUBMED · 논문 색인
@@ -303,63 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: JACC. Advances. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-22 · semaglutide
-[A Study to Find Out if the Study Drug Elecoglipron Helps Adults With Type 2 Diabetes Mellitus by Comparing it With Semaglutide, a Medicine Already Used to Treat Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT07662213)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=1200, 개입=Elecoglipron, Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-22 · semaglutide / tirzepatide
-[Metabolic Effects of Switching From Injectable Semaglutide to Tirzepatide](https://clinicaltrials.gov/study/NCT07889453)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=650, 개입=Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-22 · tirzepatide
-[A Clinical Study to Evaluate the Effects of Enicepatide Versus Tirzepatide in Participants With Type 2 Diabetes and Inadequate Blood Sugar Control on Oral Glucose-Lowering Medications](https://clinicaltrials.gov/study/NCT07889648)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=948, 개입=Enicepatide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-22 · SGLT2
-[Whether to hold and what to measure: perioperative euglycemic ketoacidosis in patients taking SGLT2 inhibitors.](https://pubmed.ncbi.nlm.nih.gov/42906932/)
-
-자료원: PUBMED · 논문 색인
-저널: Anesthesia and pain medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-20 · dapagliflozin
-[dApagliflozin SC0062 and Prevention of Renal Injury; a Randomized Evaluation](https://clinicaltrials.gov/study/NCT06072326)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=NOT_YET_RECRUITING, 등록인원=36, 개입=Dapagliflozin (Forxiga®), SC0062 and dapagliflozin, SC0062 strength 10mg. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-20 · semaglutide
-[Phase 2 Trial of Icovamenib in Participants With Type 2 Diabetes Mellitus Who Are Not Achieving Glycemic Targets While Using GLP-1-Based Therapy](https://clinicaltrials.gov/study/NCT07502508)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=RECRUITING, 등록인원=60, 개입=Placebo, icovamenib 100 mg. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-20 · tirzepatide
-[Real-World Outcomes of Tirzepatide in Pakistani Adults With Obesity, Prediabetes, and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07809568)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=NOT_YET_RECRUITING, 등록인원=330, 개입=. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-19 · semaglutide / tirzepatide
-[A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor](https://clinicaltrials.gov/study/NCT06221969)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=1024, 개입=Cagrilintide, Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-19 · semaglutide
-[A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin, SGLT2 Inhibitor or Both](https://clinicaltrials.gov/study/NCT06534411)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=1023, 개입=Cagrilintide, Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-19 · semaglutide
-[A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Placebo in Children and Adolescents With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07282613)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=80, 개입=CagriSema (Cagrilintide B and Semaglutide I), Placebo matched to CagriSema (Cagrilintide B and Semaglutide I). 임상 효과가 입증됐다는 의미는 아님.
