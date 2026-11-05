@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-05 07:58 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-06 07:58 KST
 
-최근 90일 이내 자료 122건 / 마지막 수집 2026-11-05T07:58:10+09:00
+최근 90일 이내 자료 128건 / 마지막 수집 2026-11-06T07:58:02+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -16,11 +16,41 @@
 자료원: PUBMED · 논문 색인
 저널: Endocrinology and metabolism clinics of North America. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-12-01 · GLP-1·GIP
+[Genetic GHSR deficiency and LEAP2 treatment enhance the glucose-lowering effects of liraglutide in male mice in a metabolic state-dependent manner.](https://pubmed.ncbi.nlm.nih.gov/42933595/)
+
+자료원: PUBMED · 논문 색인
+저널: Life sciences. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-15 · 경구 혈당강하제
 [Design and Evaluation of Compritol-Oleic Acid Nanostructured Lipid Carriers: A New Approach to Type 2 Diabetes Therapy.](https://pubmed.ncbi.nlm.nih.gov/42960515/)
 
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-05 · semaglutide
+[UBT251 Injection Phase II (Type 2 Diabetes Mellitus) Study](https://clinicaltrials.gov/study/NCT07163624)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=COMPLETED, 등록인원=211, 개입=Semaglutide Injection (Ozempic®), UBT251 Injection 2.0 mg and UBT251 Injection Placebo, UBT251 Injection 4.0 mg (ID 0.5 mg) and UBT251 Injection Placebo, UBT251 Injection 4.0 mg (ID 1.0 mg) and UBT251 Injection Placebo, UBT251 Injection 6.0 mg and UBT251 Injection Placebo. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-05 · semaglutide
+[Maridebart Cafraglutide Versus Semaglutide in Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07866066)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=1300, 개입=Maridebart cafraglutide, Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-05 · 경구 혈당강하제
+[Metformin modulates alveolar bone parameters and gene expression in streptozotocin-induced type 2 diabetic rats.](https://pubmed.ncbi.nlm.nih.gov/42983448/)
+
+자료원: PUBMED · 논문 색인
+저널: BMC oral health. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-05 · 경구 혈당강하제
+[The H(2)S-releasing metformin hybrid Met-ITC protects against diabetes-associated vascular dysfunction preserving glycaemic control.](https://pubmed.ncbi.nlm.nih.gov/42986015/)
+
+자료원: PUBMED · 논문 색인
+저널: British journal of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-04 · semaglutide / tirzepatide
 [A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide](https://clinicaltrials.gov/study/NCT06897475)
@@ -124,6 +154,12 @@
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-03 · SGLT2
+[Multi-organ proteomics identifies oxidative stress pathways underlying genetic and pharmacological SGLT2 suppression.](https://pubmed.ncbi.nlm.nih.gov/42981987/)
+
+자료원: PUBMED · 논문 색인
+저널: Redox biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-02 · semaglutide
 [Research Study to Look at How Well Semaglutide Works in People Living With Heart Failure, Obesity and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT04916470)
 
@@ -172,7 +208,7 @@
 자료원: PUBMED · 논문 색인
 저널: Molecular pharmaceutics. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-02 · SGLT2 / 경구 혈당강하제
+## 2026-11-02 · SGLT2
 [Efficacy and Safety of Dapagliflozin, Glimepiride, and Metformin Fixed-Dose Combination Tablet in Type 2 Diabetes: A Phase III Trial.](https://pubmed.ncbi.nlm.nih.gov/42970163/)
 
 자료원: PUBMED · 논문 색인
@@ -327,39 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Mayo Clinic proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-28 · GLP-1·GIP
-[Continued CagriSema treatment preserves weight loss by reducing energy intake and maintaining energy expenditure in rats.](https://pubmed.ncbi.nlm.nih.gov/42951207/)
-
-자료원: PUBMED · 논문 색인
-저널: Molecular metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-28 · 경구 혈당강하제
-[Real-world effectiveness and safety of enavogliflozin in patients with type 2 diabetes: A 24-week prospective multicenter observational study in Korea.](https://pubmed.ncbi.nlm.nih.gov/42952084/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of diabetes investigation. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-26 · empagliflozin
-[Incretin and Treatment With Inhibition of Sodium-glucose Cotransporter-2 Combination Insights Into Mechanisms Implicated in Congestive Heart Failure: "NATRIURETIC" Trial](https://clinicaltrials.gov/study/NCT04535960)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=COMPLETED, 등록인원=6, 개입=Empagliflozin 25 MG + Liraglutide 1.8 MG, Liraglutide 1.8 MG + Empagliflozin 25 MG. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-26 · 경구 혈당강하제
-[\[Efficacy and safety of domestic semaglutide injection in patients with type 2 diabetes mellitus inadequately controlled with metformin: a multicenter, randomized, controlled phase 3 equivalence clinical trial\].](https://pubmed.ncbi.nlm.nih.gov/42933873/)
-
-자료원: PUBMED · 논문 색인
-저널: Zhonghua yi xue za zhi. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-23 · dapagliflozin
-[Effect of SGLT2 Inhibitor on Metabolic-Dysfunction-Associated Fatty Liver Disease in Patients With Insulin Resistance](https://clinicaltrials.gov/study/NCT07891234)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=NOT_YET_RECRUITING, 등록인원=66, 개입=Dapagliflozin (10mg Tab), Dapagliflozin 5Mg Tab, Metfomin 500 mg. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-23 · SGLT2
-[Finerenone-Empagliflozin Combination Therapy in Apparent Resistant Hypertension: A CONFIDENCE Trial Post Hoc Analysis.](https://pubmed.ncbi.nlm.nih.gov/42914747/)
-
-자료원: PUBMED · 논문 색인
-저널: JACC. Advances. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
