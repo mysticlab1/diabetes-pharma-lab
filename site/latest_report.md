@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-06 07:58 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-07 07:53 KST
 
-최근 90일 이내 자료 128건 / 마지막 수집 2026-11-06T07:58:02+09:00
+최근 90일 이내 자료 133건 / 마지막 수집 2026-11-07T07:53:50+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -28,6 +28,18 @@
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-06 · semaglutide
+[A Phase 2 Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of SAL0150 Tablets in Subjects With Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT07923357)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=NOT_YET_RECRUITING, 등록인원=364, 개입=Placebo, SAL0150 dose 1, SAL0150 dose 2, SAL0150 dose 3, Semaglutide inject 1.0 mg. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-06 · 경구 혈당강하제
+[Dipeptidyl Peptidase-4 Inhibitors and Bullous Pemphigoid: A Danish Nationwide Case-Control Study.](https://pubmed.ncbi.nlm.nih.gov/42993181/)
+
+자료원: PUBMED · 논문 색인
+저널: Dermatology (Basel, Switzerland). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-05 · semaglutide
 [UBT251 Injection Phase II (Type 2 Diabetes Mellitus) Study](https://clinicaltrials.gov/study/NCT07163624)
 
@@ -51,6 +63,24 @@
 
 자료원: PUBMED · 논문 색인
 저널: British journal of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-05 · GLP-1·GIP / 경구 혈당강하제 / 기저인슐린
+[Common Genetic Variants Near SLC2A2 and Glycemic Response to Glimepiride in the GRADE Comparative Effectiveness Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/42986362/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes care. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-05 · 경구 혈당강하제
+[Associations between Antidiabetic Drug Classes and Aortic Aneurysm Risk in Patients with Type 2 Diabetes: A Nationwide Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42988105/)
+
+자료원: PUBMED · 논문 색인
+저널: European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-05 · 경구 혈당강하제
+[Metformin and Severe Post-COVID-19 Outcomes Among Individuals With Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/42988585/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-04 · semaglutide / tirzepatide
 [A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide](https://clinicaltrials.gov/study/NCT06897475)
@@ -76,7 +106,7 @@
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['미상'], 모집상태=COMPLETED, 등록인원=792, 개입=Empagliflozin 10/15 mg administered orally once daily in addition to standard treatment for type 2 diabetes mellitus.. 임상 효과가 입증됐다는 의미는 아님.
 
-## 2026-11-04 · SGLT2 / 경구 혈당강하제
+## 2026-11-04 · SGLT2
 [Bexagliflozin: pharmacological profile and clinical applications of a sodium-glucose cotransporter 2 inhibitor.](https://pubmed.ncbi.nlm.nih.gov/42975136/)
 
 자료원: PUBMED · 논문 색인
@@ -148,7 +178,7 @@
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-03 · SGLT2 / 경구 혈당강하제
+## 2026-11-03 · SGLT2
 [β-Cell Recovery Patterns With Initial Combination Versus Stepwise Therapy in Newly Diagnosed Type 2 Diabetes: TRIPLE-AXEL Post Hoc Analysis.](https://pubmed.ncbi.nlm.nih.gov/42977550/)
 
 자료원: PUBMED · 논문 색인
@@ -333,33 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Journal of vascular surgery. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-28 · dapagliflozin
-[Effect of Low Protein Diet on Top of Dapagliflozin on Chronic Kidney Disease in Patients With Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT06281899)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=200, 개입=Dapagliflozin 10 mg Tab, Low protein diet. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-28 · empagliflozin
-[EASi-PROTKT™ - A Study to Test Vicadrostat (BI 690517) Taken Together With Empagliflozin in People With Type 2 Diabetes, High Blood Pressure, and Cardiovascular Disease](https://clinicaltrials.gov/study/NCT07064473)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=11800, 개입=Empagliflozin, Placebo matching Vicadrostat, Vicadrostat. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-28 · semaglutide
-[A Research Study Looking at Kidney and Heart Health in Adults With Type 2 Diabetes and Chronic Kidney Disease Treated With Semaglutide in China](https://clinicaltrials.gov/study/NCT07900438)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=300, 개입=Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-28 · 경구 혈당강하제
-[Clinical and computational exploration of IRS1 and Pancreastatin genetic variants in metabolic response to metformin-sulfonylurea therapy.](https://pubmed.ncbi.nlm.nih.gov/42948864/)
-
-자료원: PUBMED · 논문 색인
-저널: Personalized medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-28 · SGLT2
-[Comparing SGLT2 Inhibitors on Incident Major Adverse Kidney Events in Type 2 Diabetes: A Target Trial Emulation.](https://pubmed.ncbi.nlm.nih.gov/42951018/)
-
-자료원: PUBMED · 논문 색인
-저널: Mayo Clinic proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
