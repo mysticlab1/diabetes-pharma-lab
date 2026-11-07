@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-07 07:53 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-08 07:49 KST
 
-최근 90일 이내 자료 133건 / 마지막 수집 2026-11-07T07:53:50+09:00
+최근 90일 이내 자료 135건 / 마지막 수집 2026-11-08T07:49:28+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -39,6 +39,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: Dermatology (Basel, Switzerland). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-06 · GLP-1·GIP
+[Disproportionality analysis of ventricular extrasystoles reported with semaglutide in VigiBase and the FDA Adverse Event Monitoring System.](https://pubmed.ncbi.nlm.nih.gov/42993217/)
+
+자료원: PUBMED · 논문 색인
+저널: Naunyn-Schmiedeberg's archives of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-06 · GLP-1·GIP / SGLT2 / 경구 혈당강하제
+[Clinical pharmacology of antidiabetic drugs: an update.](https://pubmed.ncbi.nlm.nih.gov/42993255/)
+
+자료원: PUBMED · 논문 색인
+저널: European journal of clinical pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-05 · semaglutide
 [UBT251 Injection Phase II (Type 2 Diabetes Mellitus) Study](https://clinicaltrials.gov/study/NCT07163624)
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-29 · GLP-1·GIP
-[Semaglutide versus other GLP-1 RAs and cardiovascular risk in obesity-related cancer survivors.](https://pubmed.ncbi.nlm.nih.gov/42956842/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-29 · 경구 혈당강하제
-[GLP-1 Receptor Agonists Decrease the Rate of Rupture, Cardiac Events, and Death in Patients with Abdominal Aortic Aneurysms.](https://pubmed.ncbi.nlm.nih.gov/42957066/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of vascular surgery. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
