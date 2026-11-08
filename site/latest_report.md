@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-08 07:49 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-09 07:48 KST
 
-최근 90일 이내 자료 135건 / 마지막 수집 2026-11-08T07:49:28+09:00
+최근 90일 이내 자료 138건 / 마지막 수집 2026-11-09T07:48:49+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -27,6 +27,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-07 · 경구 혈당강하제
+[Initial Diabetes Therapy After Coronary Artery Bypass Grafting and Long-Term Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42998247/)
+
+자료원: PUBMED · 논문 색인
+저널: Journal of the American Heart Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-07 · GLP-1·GIP
+[Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.](https://pubmed.ncbi.nlm.nih.gov/42998725/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-06 · semaglutide
 [A Phase 2 Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of SAL0150 Tablets in Subjects With Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT07923357)
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: SAR and QSAR in environmental research. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-29 · GLP-1·GIP
-[Comparative adverse-event reporting patterns of semaglutide and tirzepatide: a disproportionality analysis of FAERS.](https://pubmed.ncbi.nlm.nih.gov/42955519/)
-
-자료원: PUBMED · 논문 색인
-저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-29 · SGLT2
-[Medicare Part D formulary coverage of SGLT2 inhibitors across cardiovascular-kidney-metabolic indications, 2019-2026.](https://pubmed.ncbi.nlm.nih.gov/42955528/)
-
-자료원: PUBMED · 논문 색인
-저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
