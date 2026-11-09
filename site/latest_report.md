@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-09 07:48 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-10 07:57 KST
 
-최근 90일 이내 자료 138건 / 마지막 수집 2026-11-09T07:48:49+09:00
+최근 90일 이내 자료 144건 / 마지막 수집 2026-11-10T07:57:08+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -27,6 +27,42 @@
 
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-09 · dapagliflozin
+[A Randomized, Double-blind, Multi-center, Active-controlled, Phase 3 Clinical Trial to Evaluate the Efficacy and Safety of Combination Therapy of THP-00101, THP-00102, and THP-00103 in Subjects With T2DM and Essential Hypertension](https://clinicaltrials.gov/study/NCT06647745)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=222, 개입=THP-00101, THP-00102, THP-00103, THP-00104, THP-00105, THP-00106. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-09 · semaglutide / tirzepatide
+[Ocular Changes in Patients Using Tirzepatide or Semaglutide](https://clinicaltrials.gov/study/NCT07924618)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['미상'], 모집상태=RECRUITING, 등록인원=40, 개입=Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-09 · semaglutide / tirzepatide
+[Exercise and Protein to Reduce Muscle Loss During GLP-1-Based Treatment in Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07926152)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['NA'], 모집상태=NOT_YET_RECRUITING, 등록인원=94, 개입=Standardized lifestyle counseling, Supervised exercise training, protein supplement. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-09 · GLP-1·GIP
+[Ensemble-Based Segmental Helical Organization in an Aib-Rich Lipidated Peptide: Biomacromolecular Insights from High-Field NMR.](https://pubmed.ncbi.nlm.nih.gov/43002037/)
+
+자료원: PUBMED · 논문 색인
+저널: Biomacromolecules. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-08 · GLP-1·GIP
+[Effects of GLP-1 Receptor Agonists on Hyperuricemia, Serum Uric Acid and Gout: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/43000185/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-08 · GLP-1·GIP
+[Longitudinal Taxonomic and Predicted Functional Gut Microbiome Responses to Tirzepatide and Semaglutide: An Exploratory Secondary Analysis of the OMDOT-1 Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/43000189/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-07 · 경구 혈당강하제
 [Initial Diabetes Therapy After Coronary Artery Bypass Grafting and Long-Term Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42998247/)
@@ -327,39 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-30 · GLP-1·GIP
-[Efficacy and safety of oral orforglipron in Japanese participants with obesity disease (ATTAIN-J): a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/42962687/)
-
-자료원: PUBMED · 논문 색인
-저널: The lancet. Diabetes & endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-30 · GLP-1·GIP
-[Activities of daily living and health status benefits of semaglutide in very old patients with heart failure, type 2 diabetes, and obesity: Real-world practice study.](https://pubmed.ncbi.nlm.nih.gov/42963299/)
-
-자료원: PUBMED · 논문 색인
-저널: Medicina clinica. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-30 · SGLT2
-[Empagliflozin's role in cardiometabolic disease treatment: an Egyptian expert's view.](https://pubmed.ncbi.nlm.nih.gov/42963793/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetology & metabolic syndrome. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-10-29 · dapagliflozin / empagliflozin / tirzepatide
-[Efficacy, Safety, and Treatment Satisfaction of Once-Weekly Tirzepatide in Obese Type 2 Diabetic Patients](https://clinicaltrials.gov/study/NCT07728318)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['NA'], 모집상태=NOT_YET_RECRUITING, 등록인원=52, 개입=Standard Oral Antidiabetic Drugs (OADs), Tirzepatide + Standard Therapy (Intervention Group). 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-29 · dapagliflozin
-[Adding Acetazolamide on Top of SGLT2 Inhibition in Persons With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07902726)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=NOT_YET_RECRUITING, 등록인원=20, 개입=Acetazolamide 125 mg, Acetazolamide 250 mg, Acetazolamide 62.5 mg, Dapagliflozin 10mg. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-10-29 · 경구 혈당강하제
-[Integrating QSAR, molecular dynamics and MM-GBSA to re-rank natural product-derived DPP4 candidates from virtual screening.](https://pubmed.ncbi.nlm.nih.gov/42954798/)
-
-자료원: PUBMED · 논문 색인
-저널: SAR and QSAR in environmental research. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
