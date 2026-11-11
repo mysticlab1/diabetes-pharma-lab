@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-11 07:54 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-12 08:02 KST
 
-최근 90일 이내 자료 159건 / 마지막 수집 2026-11-11T07:54:15+09:00
+최근 90일 이내 자료 167건 / 마지막 수집 2026-11-12T08:02:16+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -22,11 +22,35 @@
 자료원: PUBMED · 논문 색인
 저널: Life sciences. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-12-01 · 경구 혈당강하제
+[Distinct associations of STK11 rs2301759 and SLC29A4 rs2685753 with metformin response among Saudi patients with type 2 diabetes mellitus.](https://pubmed.ncbi.nlm.nih.gov/43010183/)
+
+자료원: PUBMED · 논문 색인
+저널: Future science OA. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-15 · 경구 혈당강하제
 [Design and Evaluation of Compritol-Oleic Acid Nanostructured Lipid Carriers: A New Approach to Type 2 Diabetes Therapy.](https://pubmed.ncbi.nlm.nih.gov/42960515/)
 
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-11 · GLP-1·GIP
+[Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.](https://pubmed.ncbi.nlm.nih.gov/42975004/)
+
+자료원: PUBMED · 논문 색인
+저널: Expert review of cardiovascular therapy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-11 · 경구 혈당강하제
+[ROS-Responsive Selenocysteine-Releasing Nanozyme for Targeted Ferroptosis Suppression and Pancreatic β-Cell Protection in Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/43012594/)
+
+자료원: PUBMED · 논문 색인
+저널: Nano letters. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-11 · GLP-1·GIP
+[First and Subsequent Major Cardiovascular Events With Oral Semaglutide in High-Risk Type 2 Diabetes: A Secondary Analysis of the SOUL Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/43013292/)
+
+자료원: PUBMED · 논문 색인
+저널: JAMA cardiology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-10 · semaglutide
 [A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Adult Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT06778967)
@@ -57,6 +81,36 @@
 
 자료원: PUBMED · 논문 색인
 저널: Bioanalysis. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-10 · GLP-1·GIP
+[GLP-1 receptor agonists for people with type 2 diabetes and peripheral artery disease: reducing uncertainty in clinical practice.](https://pubmed.ncbi.nlm.nih.gov/43007383/)
+
+자료원: PUBMED · 논문 색인
+저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-10 · GLP-1·GIP
+[Excessive Intrapancreatic Fat Deposition and the Potential Therapeutic Role of Glucagon-Like Peptide-1 Receptor Agonists: A Systematic Review.](https://pubmed.ncbi.nlm.nih.gov/43008789/)
+
+자료원: PUBMED · 논문 색인
+저널: Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-10 · 경구 혈당강하제
+[Metformin for the treatment of chronic liver disease: Mechanistic rationale, translational evidence, and repurposing opportunities.](https://pubmed.ncbi.nlm.nih.gov/43009104/)
+
+자료원: PUBMED · 논문 색인
+저널: Biochemical pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-10 · GLP-1·GIP
+[GLP-1 based therapy of obesity and type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/43011228/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetology international. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-10 · 경구 혈당강하제
+[Metformin Induces Persistent DNMT1-Associated DNA-Protein Cross-Links under Glucose Deprivation.](https://pubmed.ncbi.nlm.nih.gov/43012959/)
+
+자료원: PUBMED · 논문 색인
+저널: Chemical research in toxicology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-09 · dapagliflozin
 [A Randomized, Double-blind, Multi-center, Active-controlled, Phase 3 Clinical Trial to Evaluate the Efficacy and Safety of Combination Therapy of THP-00101, THP-00102, and THP-00103 in Subjects With T2DM and Essential Hypertension](https://clinicaltrials.gov/study/NCT06647745)
@@ -154,7 +208,7 @@
 자료원: PUBMED · 논문 색인
 저널: Naunyn-Schmiedeberg's archives of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-06 · SGLT2 / 경구 혈당강하제
+## 2026-11-06 · SGLT2
 [Clinical pharmacology of antidiabetic drugs: an update.](https://pubmed.ncbi.nlm.nih.gov/42993255/)
 
 자료원: PUBMED · 논문 색인
@@ -257,12 +311,6 @@
 저널: Annals of surgery. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-03 · GLP-1·GIP
-[Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.](https://pubmed.ncbi.nlm.nih.gov/42975004/)
-
-자료원: PUBMED · 논문 색인
-저널: Expert review of cardiovascular therapy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-03 · GLP-1·GIP
 [GLP-1 Receptor Agonists in Metabolic Dysfunction-Associated Steatotic Liver Disease and Cardiovascular Disease: A Review.](https://pubmed.ncbi.nlm.nih.gov/42975978/)
 
 자료원: PUBMED · 논문 색인
@@ -315,51 +363,3 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=617, 개입=Placebo (Semaglutide), Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-02 · dapagliflozin / empagliflozin
-[A Study on the Safety and Clinical Efficacy of Guominkang in the Treatment of Diabetic Kidney Disease](https://clinicaltrials.gov/study/NCT07907965)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=15, 개입=Guominkang Granules, Standard Antihypertensive, Antidiabetic, and Lipid-Lowering Regimen. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-02 · SGLT2
-[Nano-emulsification and soft gel encapsulation to improve the delivery of anti-diabetic drug ertugliflozin-L-pyroglutamic acid via SNEDDS: an in vitro assessment using RP-HPLC.](https://pubmed.ncbi.nlm.nih.gov/42911193/)
-
-자료원: PUBMED · 논문 색인
-저널: Drug development and industrial pharmacy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-02 · 경구 혈당강하제
-[Influence of Pharmacogenomic Variants on Glycemic Control in Type 2 Diabetes Mellitus: An Exploratory Association Study.](https://pubmed.ncbi.nlm.nih.gov/42969311/)
-
-자료원: PUBMED · 논문 색인
-저널: Annals of African medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-02 · SGLT2
-[Changes in liver steatosis and liver stiffness following Empagliflozin treatment in patients with MASLD and type 2 diabetes: A single-arm pre-post study.](https://pubmed.ncbi.nlm.nih.gov/42969364/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of diabetes investigation. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-02 · GLP-1·GIP
-[Semaglutide and Cardiovascular Death: a Systematic Review and Meta-Analysis Cardioprotective Efficacy of Semaglutide.](https://pubmed.ncbi.nlm.nih.gov/42969445/)
-
-자료원: PUBMED · 논문 색인
-저널: Critical pathways in cardiology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-02 · SGLT2
-[GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42969666/)
-
-자료원: PUBMED · 논문 색인
-저널: Balkan medical journal. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-02 · GLP-1·GIP
-[PET Imaging of Dual GLP-1R and GIPR Targeting with \[18F\]AlF-NOTA-Asp2-Tirzepatide.](https://pubmed.ncbi.nlm.nih.gov/42969740/)
-
-자료원: PUBMED · 논문 색인
-저널: Molecular pharmaceutics. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-02 · SGLT2
-[Efficacy and Safety of Dapagliflozin, Glimepiride, and Metformin Fixed-Dose Combination Tablet in Type 2 Diabetes: A Phase III Trial.](https://pubmed.ncbi.nlm.nih.gov/42970163/)
-
-자료원: PUBMED · 논문 색인
-저널: Advances in therapy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
