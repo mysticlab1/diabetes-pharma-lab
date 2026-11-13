@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-13 07:57 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-14 07:54 KST
 
-최근 90일 이내 자료 176건 / 마지막 수집 2026-11-13T07:57:49+09:00
+최근 90일 이내 자료 158건 / 마지막 수집 2026-11-14T07:54:47+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -33,6 +33,30 @@
 
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-13 · semaglutide
+[A Study of BGM0504 in Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT06716216)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=553, 개입=Drug: 5 mg BGM0504 Administered SC, Drug: Semaglutide Administered SC, Drug:10 mg BGM0504 Administered SC. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-13 · GLP-1·GIP
+[Microdosing, fractional and split dosing of injectable GLP-1-based drugs: balancing potential benefits and risks.](https://pubmed.ncbi.nlm.nih.gov/43021748/)
+
+자료원: PUBMED · 논문 색인
+저널: Minerva endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-13 · 경구 혈당강하제
+[Glucagon-like peptide-1 receptor agonists and lung cancer risk in patients with type 2 diabetes and pulmonary nodules.](https://pubmed.ncbi.nlm.nih.gov/43024059/)
+
+자료원: PUBMED · 논문 색인
+저널: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-13 · GLP-1·GIP
+[When hypertensive crisis mimics septic shock: A case report of pheochromocytoma-induced severe lactic acidosis following GLP-1 receptor agonist administration.](https://pubmed.ncbi.nlm.nih.gov/43024315/)
+
+자료원: PUBMED · 논문 색인
+저널: Medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-12 · tirzepatide
 [A Study of Tirzepatide Compared With Intensified Conventional Care in Adult Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT05433584)
@@ -81,6 +105,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: Journal of medicinal chemistry. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-12 · 기저인슐린
+[Modeling the Impact of Monthly Titration of Once-Weekly Insulin Icodec in Insulin-Naive Type 2 Diabetes: Analysis Based on ONWARDS 1 and 3.](https://pubmed.ncbi.nlm.nih.gov/43018882/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes therapy : research, treatment and education of diabetes and related disorders. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-12 · GLP-1·GIP
+[Real-world effectiveness of tirzepatide in individuals with obesity: weight response, treatment-related factors and diabetes status.](https://pubmed.ncbi.nlm.nih.gov/43020464/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-11 · GLP-1·GIP
 [Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.](https://pubmed.ncbi.nlm.nih.gov/42975004/)
@@ -184,7 +220,7 @@
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['미상'], 모집상태=RECRUITING, 등록인원=40, 개입=Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
 
-## 2026-11-09 · semaglutide / tirzepatide
+## 2026-11-09 · tirzepatide
 [Exercise and Protein to Reduce Muscle Loss During GLP-1-Based Treatment in Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07926152)
 
 자료원: CTGOV · 임상시험 등록정보
@@ -208,7 +244,7 @@
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-09 · GLP-1·GIP / SGLT2
+## 2026-11-09 · SGLT2
 [Two-Year Trajectories of DIAL2-Predicted Cardiovascular Risk After Initiation of Semaglutide, Empagliflozin or Their Combination: The DIAL-STEP Study.](https://pubmed.ncbi.nlm.nih.gov/43003421/)
 
 자료원: PUBMED · 논문 색인
@@ -327,39 +363,3 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=285, 개입=AI-Assisted Intensive Lifestyle Intervention, Standard Lifestyle Management, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-04 · tirzepatide
-[A Study of EloraTZP in Adult Participants With Obesity or Overweight and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881458)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=1000, 개입=Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-04 · empagliflozin
-[Effect of Empagliflozin on Liver Fat in Patients With Type 2 Diabetes and Nonalcoholic Fatty Liver Disease](https://clinicaltrials.gov/study/NCT07915596)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=COMPLETED, 등록인원=792, 개입=Empagliflozin 10/15 mg administered orally once daily in addition to standard treatment for type 2 diabetes mellitus.. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-04 · SGLT2
-[Bexagliflozin: pharmacological profile and clinical applications of a sodium-glucose cotransporter 2 inhibitor.](https://pubmed.ncbi.nlm.nih.gov/42975136/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of basic and clinical physiology and pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-04 · GLP-1·GIP
-[Tirzepatide for the treatment of obstructive sleep apnea: from apnea-hypopnea index reduction to cardiometabolic risk mitigation-a narrative review.](https://pubmed.ncbi.nlm.nih.gov/42979856/)
-
-자료원: PUBMED · 논문 색인
-저널: Multidisciplinary respiratory medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-03 · tirzepatide
-[A Study of EloraTZP in Adult Participants With Obesity Without Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881432)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=2115, 개입=Eloralintide, Placebo, Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-03 · GLP-1·GIP
-[Modern antidiabetic therapy in older adults with type 2 diabetes: evidence, best practice and a clinical pharmacist's framework.](https://pubmed.ncbi.nlm.nih.gov/42911774/)
-
-자료원: PUBMED · 논문 색인
-저널: Expert review of clinical pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
