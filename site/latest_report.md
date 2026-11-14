@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-14 07:54 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-15 07:49 KST
 
-최근 90일 이내 자료 158건 / 마지막 수집 2026-11-14T07:54:47+09:00
+최근 90일 이내 자료 160건 / 마지막 수집 2026-11-15T07:49:21+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -57,6 +57,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: Medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-13 · SGLT2
+[Association of Sodium-Glucose Cotransporter-2 Inhibitor Use with Laboratory- and Anthropometry-Derived Indices of Hepatic Steatosis and Fibrosis in Type 2 Diabetes: A Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43025441/)
+
+자료원: PUBMED · 논문 색인
+저널: Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-13 · GLP-1·GIP
+[Kidney effects of tirzepatide across albuminuria, filtration markers, and clinical outcomes: a parent-trial-level systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43025465/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-12 · tirzepatide
 [A Study of Tirzepatide Compared With Intensified Conventional Care in Adult Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT05433584)
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-04 · tirzepatide
-[A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide](https://clinicaltrials.gov/study/NCT06897475)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=RECRUITING, 등록인원=200, 개입=LY3457263, Placebo. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-04 · tirzepatide
-[AI-Assisted Lifestyle Intervention Versus Tirzepatide for Obesity and Newly Diagnosed Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07697391)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=RECRUITING, 등록인원=285, 개입=AI-Assisted Intensive Lifestyle Intervention, Standard Lifestyle Management, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
