@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-15 07:49 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-16 07:51 KST
 
-최근 90일 이내 자료 160건 / 마지막 수집 2026-11-15T07:49:21+09:00
+최근 90일 이내 자료 163건 / 마지막 수집 2026-11-16T07:51:16+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -33,6 +33,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-14 · SGLT2 / 경구 혈당강하제
+[Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/43032907/)
+
+자료원: PUBMED · 논문 색인
+저널: Journal of diabetes investigation. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-14 · 경구 혈당강하제
+[Development of a Gliptin Screening System Based on a Recombinant Secreted Form of Dipeptidyl Peptidase-4.](https://pubmed.ncbi.nlm.nih.gov/43033392/)
+
+자료원: PUBMED · 논문 색인
+저널: Bulletin of experimental biology and medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-13 · semaglutide
 [A Study of BGM0504 in Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT06716216)
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Diabetes care. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-05 · 경구 혈당강하제
-[Associations between Antidiabetic Drug Classes and Aortic Aneurysm Risk in Patients with Type 2 Diabetes: A Nationwide Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/42988105/)
-
-자료원: PUBMED · 논문 색인
-저널: European journal of vascular and endovascular surgery : the official journal of the European Society for Vascular Surgery. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-05 · 경구 혈당강하제
-[Metformin and Severe Post-COVID-19 Outcomes Among Individuals With Diabetes Mellitus.](https://pubmed.ncbi.nlm.nih.gov/42988585/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
