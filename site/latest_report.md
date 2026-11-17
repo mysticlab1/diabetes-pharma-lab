@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-17 07:58 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-18 08:05 KST
 
-최근 90일 이내 자료 169건 / 마지막 수집 2026-11-17T07:58:34+09:00
+최근 90일 이내 자료 177건 / 마지막 수집 2026-11-18T08:05:15+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -28,6 +28,30 @@
 자료원: PUBMED · 논문 색인
 저널: Future science OA. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-17 · tirzepatide
+[A Study to Investigate Weight Management With Bimagrumab (LY3985863) and Tirzepatide (LY3298176), Alone or in Combination, in Adults With Obesity or Overweight](https://clinicaltrials.gov/study/NCT06643728)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=COMPLETED, 등록인원=252, 개입=Bimagrumab, Bimagrumab Placebo, Tirzepatide, Tirzepatide Placebo. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-17 · tirzepatide
+[A Study of EloraTZP in Adult Participants With Obesity Without Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881432)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=2115, 개입=Eloralintide, Placebo, Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-17 · 기저인슐린
+[Insulin Efsitora Alfa: First Approval.](https://pubmed.ncbi.nlm.nih.gov/43040187/)
+
+자료원: PUBMED · 논문 색인
+저널: Drugs. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-17 · GLP-1·GIP
+[KASL Consensus Statement for Pharmacologic Treatment of Metabolic Dysfunction-Associated Steatohepatitis: Focus on Semaglutide.](https://pubmed.ncbi.nlm.nih.gov/43041053/)
+
+자료원: PUBMED · 논문 색인
+저널: Clinical and molecular hepatology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-16 · empagliflozin
 [Sotagliflozin Versus Empagliflozin Added to Metformin for Glycemic Control in Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07939750)
 
@@ -46,6 +70,12 @@
 자료원: PUBMED · 논문 색인
 저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-16 · GLP-1·GIP / 경구 혈당강하제
+[Real-World Initiation of Resmetirom and Recorded Incretin Exposure in the United States.](https://pubmed.ncbi.nlm.nih.gov/43039875/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-15 · 경구 혈당강하제
 [Design and Evaluation of Compritol-Oleic Acid Nanostructured Lipid Carriers: A New Approach to Type 2 Diabetes Therapy.](https://pubmed.ncbi.nlm.nih.gov/42960515/)
 
@@ -63,6 +93,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-15 · GLP-1·GIP
+[Ocular Safety of GLP-1 Receptor Agonists: A Comprehensive Review.](https://pubmed.ncbi.nlm.nih.gov/43041449/)
+
+자료원: PUBMED · 논문 색인
+저널: Obesity science & practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-14 · SGLT2 / 경구 혈당강하제
 [Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/43032907/)
@@ -232,6 +268,12 @@
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['NA'], 모집상태=NOT_YET_RECRUITING, 등록인원=250, 개입=24-Hour Clear Liquid Diet, Standard Fasting. 임상 효과가 입증됐다는 의미는 아님.
 
+## 2026-11-10 · empagliflozin
+[Jardiance](https://api.fda.gov/drug/label.json?search=set_id%3A%22faf3dd6a-9cd0-39c2-0d2e-232cb3f67565%22&limit=1)
+
+자료원: OPENFDA_LABEL · 미국 라벨 버전
+성분: EMPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 10498873d75225. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
+
 ## 2026-11-10 · 기저인슐린
 [Anti-drug antibody titer may guide neutralizing antibody testing.](https://pubmed.ncbi.nlm.nih.gov/43006198/)
 
@@ -321,45 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Clinical therapeutics. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-08 · GLP-1·GIP
-[Effects of GLP-1 Receptor Agonists on Hyperuricemia, Serum Uric Acid and Gout: A Systematic Review and Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/43000185/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-08 · GLP-1·GIP
-[Longitudinal Taxonomic and Predicted Functional Gut Microbiome Responses to Tirzepatide and Semaglutide: An Exploratory Secondary Analysis of the OMDOT-1 Randomized Controlled Trial.](https://pubmed.ncbi.nlm.nih.gov/43000189/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-07 · 경구 혈당강하제
-[Initial Diabetes Therapy After Coronary Artery Bypass Grafting and Long-Term Outcomes.](https://pubmed.ncbi.nlm.nih.gov/42998247/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of the American Heart Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-07 · GLP-1·GIP
-[Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.](https://pubmed.ncbi.nlm.nih.gov/42998725/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-06 · semaglutide
-[A Phase 2 Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of SAL0150 Tablets in Subjects With Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT07923357)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=NOT_YET_RECRUITING, 등록인원=364, 개입=Placebo, SAL0150 dose 1, SAL0150 dose 2, SAL0150 dose 3, Semaglutide inject 1.0 mg. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-06 · 경구 혈당강하제
-[Dipeptidyl Peptidase-4 Inhibitors and Bullous Pemphigoid: A Danish Nationwide Case-Control Study.](https://pubmed.ncbi.nlm.nih.gov/42993181/)
-
-자료원: PUBMED · 논문 색인
-저널: Dermatology (Basel, Switzerland). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-06 · GLP-1·GIP
-[Disproportionality analysis of ventricular extrasystoles reported with semaglutide in VigiBase and the FDA Adverse Event Monitoring System.](https://pubmed.ncbi.nlm.nih.gov/42993217/)
-
-자료원: PUBMED · 논문 색인
-저널: Naunyn-Schmiedeberg's archives of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
