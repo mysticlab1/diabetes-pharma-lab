@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-18 08:05 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-19 08:03 KST
 
-최근 90일 이내 자료 177건 / 마지막 수집 2026-11-18T08:05:15+09:00
+최근 90일 이내 자료 182건 / 마지막 수집 2026-11-19T08:03:47+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -28,6 +28,30 @@
 자료원: PUBMED · 논문 색인
 저널: Future science OA. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-12-01 · 기저인슐린
+[Modeling the Impact of Monthly Titration of Once-Weekly Insulin Icodec in Insulin-Naive Type 2 Diabetes: Analysis Based on ONWARDS 1 and 3.](https://pubmed.ncbi.nlm.nih.gov/43018882/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes therapy : research, treatment and education of diabetes and related disorders. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-18 · tirzepatide
+[A Study of EloraTZP in Adult Participants With Obesity or Overweight and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881458)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=1000, 개입=Tirzepatide, eloralintide and tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-18 · 경구 혈당강하제
+[Fermented Laminaria japonica ameliorates type 2 diabetes in mice via modulation of insulin signaling, oxidative stress, and gut microbiota.](https://pubmed.ncbi.nlm.nih.gov/43049865/)
+
+자료원: PUBMED · 논문 색인
+저널: Food & function. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-18 · GLP-1·GIP
+[Semaglutide Effect on Kidney, Cardiovascular, and Mortality Outcomes in Racial and Ethnic Groups: FLOW Trial Post Hoc Analyses.](https://pubmed.ncbi.nlm.nih.gov/43050287/)
+
+자료원: PUBMED · 논문 색인
+저널: Clinical journal of the American Society of Nephrology : CJASN. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-17 · tirzepatide
 [A Study to Investigate Weight Management With Bimagrumab (LY3985863) and Tirzepatide (LY3298176), Alone or in Combination, in Adults With Obesity or Overweight](https://clinicaltrials.gov/study/NCT06643728)
 
@@ -52,6 +76,18 @@
 자료원: PUBMED · 논문 색인
 저널: Clinical and molecular hepatology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-17 · GLP-1·GIP
+[Tirzepatide and risk of nutritional deficiency anemia compared with GLP-1 receptor agonists in adults with type 2 diabetes and overweight or obesity.](https://pubmed.ncbi.nlm.nih.gov/43044770/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-17 · GLP-1·GIP
+[New-onset depersonalization-derealization syndrome following semaglutide therapy.](https://pubmed.ncbi.nlm.nih.gov/43048071/)
+
+자료원: PUBMED · 논문 색인
+저널: JCEM case reports. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-16 · empagliflozin
 [Sotagliflozin Versus Empagliflozin Added to Metformin for Glycemic Control in Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07939750)
 
@@ -64,13 +100,13 @@
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-16 · GLP-1·GIP / 기저인슐린
+## 2026-11-16 · 기저인슐린
 [A comparative analysis of the safety and tolerability of oral small-molecule versus injectable peptide GLP-1 receptor agonists.](https://pubmed.ncbi.nlm.nih.gov/43037879/)
 
 자료원: PUBMED · 논문 색인
 저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-16 · GLP-1·GIP / 경구 혈당강하제
+## 2026-11-16 · 경구 혈당강하제
 [Real-World Initiation of Resmetirom and Recorded Incretin Exposure in the United States.](https://pubmed.ncbi.nlm.nih.gov/43039875/)
 
 자료원: PUBMED · 논문 색인
@@ -195,12 +231,6 @@
 
 자료원: PUBMED · 논문 색인
 저널: Journal of medicinal chemistry. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-12 · 기저인슐린
-[Modeling the Impact of Monthly Titration of Once-Weekly Insulin Icodec in Insulin-Naive Type 2 Diabetes: Analysis Based on ONWARDS 1 and 3.](https://pubmed.ncbi.nlm.nih.gov/43018882/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes therapy : research, treatment and education of diabetes and related disorders. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-12 · GLP-1·GIP
 [Real-world effectiveness of tirzepatide in individuals with obesity: weight response, treatment-related factors and diabetes status.](https://pubmed.ncbi.nlm.nih.gov/43020464/)
@@ -333,33 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Biomacromolecules. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-09 · GLP-1·GIP
-[Effectiveness of GLP-1 RAs and SGLT-2is for Weight Loss and Glycaemic Control: An Observational Emulation of a Target Trial.](https://pubmed.ncbi.nlm.nih.gov/43003406/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-09 · GLP-1·GIP
-[Persistent Gaps in Semaglutide and Tirzepatide Prescribing Among Adults With Class III Obesity Without Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/43003413/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-09 · SGLT2
-[Two-Year Trajectories of DIAL2-Predicted Cardiovascular Risk After Initiation of Semaglutide, Empagliflozin or Their Combination: The DIAL-STEP Study.](https://pubmed.ncbi.nlm.nih.gov/43003421/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-09 · 경구 혈당강하제
-[Is metformin use associated with cognitive, physical and cardiovascular outcomes in older adults with type 2 diabetes? A secondary analysis of the SCOPE multicentre prospective cohort study.](https://pubmed.ncbi.nlm.nih.gov/43003454/)
-
-자료원: PUBMED · 논문 색인
-저널: BMJ open. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-09 · GLP-1·GIP
-[Knowledge, Perspectives, and Experiences of Women in Kuwait Regarding GLP-1/GIP-Based Medications for Weight Management: A Cross-Sectional Study.](https://pubmed.ncbi.nlm.nih.gov/43003739/)
-
-자료원: PUBMED · 논문 색인
-저널: Clinical therapeutics. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
