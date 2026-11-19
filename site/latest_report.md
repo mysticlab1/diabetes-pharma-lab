@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-19 08:03 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-20 07:59 KST
 
-최근 90일 이내 자료 182건 / 마지막 수집 2026-11-19T08:03:47+09:00
+최근 90일 이내 자료 186건 / 마지막 수집 2026-11-20T07:59:41+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -34,6 +34,18 @@
 자료원: PUBMED · 논문 색인
 저널: Diabetes therapy : research, treatment and education of diabetes and related disorders. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-19 · semaglutide
+[A Research Study to See How Well CagriSema Compared to Semaglutide, Cagrilintide and Placebo Lowers Blood Sugar and Body Weight in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor](https://clinicaltrials.gov/study/NCT06065540)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=2734, 개입=Cagrilintide, Placebo cagrilintide, Placebo semaglutide, Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-19 · SGLT2
+[Impact of SGLT2 Inhibitors on Renal Function in Patients with Heart Failure: a systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43056248/)
+
+자료원: PUBMED · 논문 색인
+저널: ESC heart failure. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-18 · tirzepatide
 [A Study of EloraTZP in Adult Participants With Obesity or Overweight and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881458)
 
@@ -51,6 +63,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: Clinical journal of the American Society of Nephrology : CJASN. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-18 · 경구 혈당강하제
+[SGLT2 Inhibitors Versus Metformin as First-Line Therapy for Cardiorenal Outcomes: A Target Trial Emulation Among New Users With Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/43051408/)
+
+자료원: PUBMED · 논문 색인
+저널: Mayo Clinic proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-18 · SGLT2
+[Prospective Real-World Evaluation of Empagliflozin on Pulmonary Function and Exercise Capacity in Patients with Type 2 Diabetes and COPD.](https://pubmed.ncbi.nlm.nih.gov/43051472/)
+
+자료원: PUBMED · 논문 색인
+저널: Respiratory medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-17 · tirzepatide
 [A Study to Investigate Weight Management With Bimagrumab (LY3985863) and Tirzepatide (LY3298176), Alone or in Combination, in Adults With Obesity or Overweight](https://clinicaltrials.gov/study/NCT06643728)
@@ -136,7 +160,7 @@
 자료원: PUBMED · 논문 색인
 저널: Obesity science & practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-14 · SGLT2 / 경구 혈당강하제
+## 2026-11-14 · SGLT2
 [Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/43032907/)
 
 자료원: PUBMED · 논문 색인
@@ -339,27 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Chemical research in toxicology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-09 · dapagliflozin
-[A Randomized, Double-blind, Multi-center, Active-controlled, Phase 3 Clinical Trial to Evaluate the Efficacy and Safety of Combination Therapy of THP-00101, THP-00102, and THP-00103 in Subjects With T2DM and Essential Hypertension](https://clinicaltrials.gov/study/NCT06647745)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=222, 개입=THP-00101, THP-00102, THP-00103, THP-00104, THP-00105, THP-00106. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-09 · tirzepatide
-[Ocular Changes in Patients Using Tirzepatide or Semaglutide](https://clinicaltrials.gov/study/NCT07924618)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['미상'], 모집상태=RECRUITING, 등록인원=40, 개입=Semaglutide, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-09 · semaglutide / tirzepatide
-[Exercise and Protein to Reduce Muscle Loss During GLP-1-Based Treatment in Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07926152)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['NA'], 모집상태=NOT_YET_RECRUITING, 등록인원=94, 개입=Standardized lifestyle counseling, Supervised exercise training, protein supplement. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-09 · GLP-1·GIP
-[Ensemble-Based Segmental Helical Organization in an Aib-Rich Lipidated Peptide: Biomacromolecular Insights from High-Field NMR.](https://pubmed.ncbi.nlm.nih.gov/43002037/)
-
-자료원: PUBMED · 논문 색인
-저널: Biomacromolecules. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
