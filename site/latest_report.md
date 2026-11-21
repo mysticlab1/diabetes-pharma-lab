@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-21 07:59 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-22 07:53 KST
 
-최근 90일 이내 자료 195건 / 마지막 수집 2026-11-21T07:59:08+09:00
+최근 90일 이내 자료 196건 / 마지막 수집 2026-11-22T07:53:32+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -21,6 +21,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Life sciences. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-12-01 · 경구 혈당강하제
+[Metformin for the treatment of chronic liver disease: Mechanistic rationale, translational evidence, and repurposing opportunities.](https://pubmed.ncbi.nlm.nih.gov/43009104/)
+
+자료원: PUBMED · 논문 색인
+저널: Biochemical pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-12-01 · 경구 혈당강하제
 [Distinct associations of STK11 rs2301759 and SLC29A4 rs2685753 with metformin response among Saudi patients with type 2 diabetes mellitus.](https://pubmed.ncbi.nlm.nih.gov/43010183/)
@@ -168,6 +174,12 @@
 
 ## 2026-11-16 · dapagliflozin
 [Dapagliflozin](https://api.fda.gov/drug/label.json?search=set_id%3A%22308f6ae6-fab2-4052-bb63-563ac524565b%22&limit=1)
+
+자료원: OPENFDA_LABEL · 미국 라벨 버전
+성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 8ce0901d57917a. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
+
+## 2026-11-16 · dapagliflozin
+[Dapagliflozin](https://api.fda.gov/drug/label.json?search=set_id%3A%228019c87e-752c-4b06-8485-e21ed4391231%22&limit=1)
 
 자료원: OPENFDA_LABEL · 미국 라벨 버전
 성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 8ce0901d57917a. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Journal of multidisciplinary healthcare. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-10 · semaglutide
-[A Phase III Clinical Study to Evaluate the Efficacy and Safety of GZR18 Injection in Adult Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT06778967)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=1133, 개입=GZR18, semaglutide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-10 · semaglutide
-[AMAZE 8: A Research Study Investigating How Well the Medicine NNC0487-0111 Compared to Semaglutide Helps People With Excess Body Weight and Type 2 Diabetes Lose Weight](https://clinicaltrials.gov/study/NCT07400107)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=985, 개입=NNC0487-0111, Placebo (matched to NNC0487-0111), Placebo (matched to semaglutide), Semaglutide. 임상 효과가 입증됐다는 의미는 아님.
