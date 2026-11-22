@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-22 07:53 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-23 07:56 KST
 
-최근 90일 이내 자료 196건 / 마지막 수집 2026-11-22T07:53:32+09:00
+최근 90일 이내 자료 197건 / 마지막 수집 2026-11-23T07:56:21+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -45,6 +45,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Rhode Island medical journal (2013). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-21 · SGLT2
+[Corrigendum to "Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports" \[Biomed. Pharmacother. 204 (2026) 119976\].](https://pubmed.ncbi.nlm.nih.gov/43067555/)
+
+자료원: PUBMED · 논문 색인
+저널: Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-20 · tirzepatide
 [A Study of Investigational Tirzepatide (LY3298176) Doses in Participants With Type 2 Diabetes and Obesity](https://clinicaltrials.gov/study/NCT06037252)
@@ -99,6 +105,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Nature reviews. Endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-19 · GLP-1·GIP
+[Possible Semaglutide-Associated Acute Hepatocellular Liver Injury: A Case Report.](https://pubmed.ncbi.nlm.nih.gov/43066463/)
+
+자료원: PUBMED · 논문 색인
+저널: Cureus. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-18 · tirzepatide
 [A Study of EloraTZP in Adult Participants With Obesity or Overweight and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07881458)
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: BMJ open. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-11 · 경구 혈당강하제
-[Withholding or continuing glucose-lowering drugs for elective surgery in patients with type 2 diabetes mellitus: withholding or continuing perioperative metformin. Responses to Br J Anaesth 2026; 137: 1280-1 and Br J Anaesth 2026; 137: 1282-3.](https://pubmed.ncbi.nlm.nih.gov/43015225/)
-
-자료원: PUBMED · 논문 색인
-저널: British journal of anaesthesia. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-11 · GLP-1·GIP
-[Visceral and Ectopic Fat Remodeling with Incretin-Based Therapies in Type 2 Diabetes: Human Imaging Evidence.](https://pubmed.ncbi.nlm.nih.gov/43036571/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of multidisciplinary healthcare. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
