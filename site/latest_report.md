@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-23 07:56 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-24 08:06 KST
 
-최근 90일 이내 자료 197건 / 마지막 수집 2026-11-23T07:56:21+09:00
+최근 90일 이내 자료 204건 / 마지막 수집 2026-11-24T08:06:00+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -46,6 +46,54 @@
 자료원: PUBMED · 논문 색인
 저널: Rhode Island medical journal (2013). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-24 · 경구 혈당강하제
+[\[Association between sodium-glucose co-transporter 2 inhibitors and mortality in cancer patients with coronary artery disease and type 2 diabetes\].](https://pubmed.ncbi.nlm.nih.gov/43068823/)
+
+자료원: PUBMED · 논문 색인
+저널: Zhonghua xin xue guan bing za zhi. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-23 · insulin icodec
+[A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin](https://clinicaltrials.gov/study/NCT07165223)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=304, 개입=GZR4, Insulin Icodec group. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-23 · insulin icodec
+[A Study of the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Single Subcutaneous UBT38006 Injection in Healthy Adult Males](https://clinicaltrials.gov/study/NCT07630233)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE1'], 모집상태=RECRUITING, 등록인원=55, 개입=Insulin Degludec Injection, Insulin Icodec Injection, Placebo, UBT38006. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-23 · SGLT2
+[Dual Pathway Modulation with SGLT2 Inhibitors and Aldosterone Synthase Inhibitors in Cardio-Kidney Disease: Rationale and Trial Design of the EASi Program.](https://pubmed.ncbi.nlm.nih.gov/43070113/)
+
+자료원: PUBMED · 논문 색인
+저널: European journal of heart failure. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-23 · GLP-1·GIP
+[Kidney Effect of Tirzepatide in Pediatric Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/43070923/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes care. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-23 · GLP-1·GIP / SGLT2
+[Effects of Semaglutide and Dapagliflozin on Natriuretic Peptides in Type 2 Diabetes: A Randomized Comparative Study.](https://pubmed.ncbi.nlm.nih.gov/43071039/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes care. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-22 · 경구 혈당강하제
+[Cutaneous Adverse Reactions Associated with Modern Antidiabetic Therapies: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/43069406/)
+
+자료원: PUBMED · 논문 색인
+저널: Dermatology and therapy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-22 · GLP-1·GIP
+[Assessing predictive performance of four semi-mechanistic models for long-term HbA1c with dulaglutide in people with Type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/43069672/)
+
+자료원: PUBMED · 논문 색인
+저널: British journal of clinical pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-21 · SGLT2
 [Corrigendum to "Urinary tract and genital infections with dapagliflozin and empagliflozin across type 2 diabetes, heart failure, and chronic kidney disease: An indication- and sex-stratified disproportionality analysis of eudravigilance reports" \[Biomed. Pharmacother. 204 (2026) 119976\].](https://pubmed.ncbi.nlm.nih.gov/43067555/)
 
@@ -69,6 +117,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Current medical research and opinion. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-20 · 경구 혈당강하제
+[Comparison between fixed-dose combination pioglitazone-metformin and sitagliptin-metformin in patients with type 2 diabetes exhibiting poor glycemic control: A multicenter clinical trial.](https://pubmed.ncbi.nlm.nih.gov/43068972/)
+
+자료원: PUBMED · 논문 색인
+저널: Chinese medical journal. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-19 · semaglutide
 [A Research Study to See How Well CagriSema Compared to Semaglutide, Cagrilintide and Placebo Lowers Blood Sugar and Body Weight in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor](https://clinicaltrials.gov/study/NCT06065540)
@@ -137,7 +191,7 @@
 저널: Mayo Clinic proceedings. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-18 · SGLT2
-[Prospective Real-World Evaluation of Empagliflozin on Pulmonary Function and Exercise Capacity in Patients with Type 2 Diabetes and COPD.](https://pubmed.ncbi.nlm.nih.gov/43051472/)
+[Prospective real-world evaluation of empagliflozin on pulmonary function and exercise capacity in patients with type 2 diabetes and COPD.](https://pubmed.ncbi.nlm.nih.gov/43051472/)
 
 자료원: PUBMED · 논문 색인
 저널: Respiratory medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
@@ -309,57 +363,3 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=2539, 개입=Placebo, Reduced-calorie diet, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · semaglutide
-[AMBITION 3: A Research Study Investigating How Well Zenagamtide at Higher Dose Levels Lowers Blood Sugar and Body Weight Compared to Semaglutide in People With Type 2 Diabetes Treated With Metformin, SGLT2i, or Both](https://clinicaltrials.gov/study/NCT07931573)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=1200, 개입=Placebo, Semaglutide, Zenagamtide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · semaglutide
-[A Research Study Investigating How Well Zenagamtide at Lower Dose Levels Lowers Blood Sugar and Body Weight Compared to Semaglutide at Lower Dose Levels in People With Type 2 Diabetes Treated With Metformin, Sodium-Glucose Cotransporter 2 Inhibitors (SGLT2i), or Both](https://clinicaltrials.gov/study/NCT07931599)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=1060, 개입=Placebo semaglutide, Placebo zenagamtide, Semaglutide, Zenagamtide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · dapagliflozin
-[Alpha-Lipoic Acid Added to Dapagliflozin and Insulin Resistance in Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07934225)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=NOT_YET_RECRUITING, 등록인원=70, 개입=Alpha-Lipoic Acid (ALA), Placebo. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · 경구 혈당강하제
-[Discovery of Novel GPR119 Agonists with Improved Kinetic Solubility and Drug-like Properties for Type 2 Diabetes Treatment.](https://pubmed.ncbi.nlm.nih.gov/43018545/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of medicinal chemistry. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-12 · GLP-1·GIP
-[Real-world effectiveness of tirzepatide in individuals with obesity: weight response, treatment-related factors and diabetes status.](https://pubmed.ncbi.nlm.nih.gov/43020464/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-11 · GLP-1·GIP
-[Cardiometabolic benefits of glucagon-like peptide-1 receptor agonists and dual agonists: from obesity and diabetes to heart failure with preserved ejection fraction.](https://pubmed.ncbi.nlm.nih.gov/42975004/)
-
-자료원: PUBMED · 논문 색인
-저널: Expert review of cardiovascular therapy. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-11 · 경구 혈당강하제
-[ROS-Responsive Selenocysteine-Releasing Nanozyme for Targeted Ferroptosis Suppression and Pancreatic β-Cell Protection in Type 2 Diabetes.](https://pubmed.ncbi.nlm.nih.gov/43012594/)
-
-자료원: PUBMED · 논문 색인
-저널: Nano letters. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-11 · GLP-1·GIP
-[First and Subsequent Major Cardiovascular Events With Oral Semaglutide in High-Risk Type 2 Diabetes: A Secondary Analysis of the SOUL Randomized Clinical Trial.](https://pubmed.ncbi.nlm.nih.gov/43013292/)
-
-자료원: PUBMED · 논문 색인
-저널: JAMA cardiology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-11 · 경구 혈당강하제
-[Effects of henagliflozin proline tablets versus metformin extended-release tablets on body composition in geriatric patients with newly diagnosed type 2 diabetes mellitus (HABIT-GEMs): study protocol for a multicentre, randomised, open-label trial.](https://pubmed.ncbi.nlm.nih.gov/43015023/)
-
-자료원: PUBMED · 논문 색인
-저널: BMJ open. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
