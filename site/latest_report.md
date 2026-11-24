@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-24 08:06 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-25 08:09 KST
 
-최근 90일 이내 자료 204건 / 마지막 수집 2026-11-24T08:06:00+09:00
+최근 90일 이내 자료 207건 / 마지막 수집 2026-11-25T08:09:41+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -46,11 +46,41 @@
 자료원: PUBMED · 논문 색인
 저널: Rhode Island medical journal (2013). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-12-01 · 경구 혈당강하제
+[Support to Address Excess Weight and Related Physical Health Conditions for Young People With Severe Mental Illness: A Systematic Review With Narrative and Thematic Synthesis.](https://pubmed.ncbi.nlm.nih.gov/43074501/)
+
+자료원: PUBMED · 논문 색인
+저널: Journal of human nutrition and dietetics : the official journal of the British Dietetic Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-24 · semaglutide / tirzepatide
+[A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide](https://clinicaltrials.gov/study/NCT06897475)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE2'], 모집상태=RECRUITING, 등록인원=200, 개입=LY3457263, Placebo. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-24 · semaglutide
+[Free Fatty Acid Effects In Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07677995)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['NA'], 모집상태=ENROLLING_BY_INVITATION, 등록인원=60, 개입=Omega-3 Fatty Acids, Placebo, Semaglutide 0.25 mg. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-24 · tirzepatide
+[Real-World Outcomes of Tirzepatide in Pakistani Adults With Obesity, Prediabetes, and Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07809568)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['미상'], 모집상태=NOT_YET_RECRUITING, 등록인원=330, 개입=. 임상 효과가 입증됐다는 의미는 아님.
+
 ## 2026-11-24 · 경구 혈당강하제
 [\[Association between sodium-glucose co-transporter 2 inhibitors and mortality in cancer patients with coronary artery disease and type 2 diabetes\].](https://pubmed.ncbi.nlm.nih.gov/43068823/)
 
 자료원: PUBMED · 논문 색인
 저널: Zhonghua xin xue guan bing za zhi. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-24 · GLP-1·GIP
+[GLP-1 receptor agonists for alcohol use disorder: mechanisms, clinical evidence and testable predictions.](https://pubmed.ncbi.nlm.nih.gov/43076912/)
+
+자료원: PUBMED · 논문 색인
+저널: Psychopharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-23 · insulin icodec
 [A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin](https://clinicaltrials.gov/study/NCT07165223)
@@ -81,6 +111,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Diabetes care. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-23 · GLP-1·GIP
+[Complementary Metabolic Effects of Exercise and GLP-1-Based Pharmacotherapy in Type 2 Diabetes: A Systematic Review and Multilevel Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/43074480/)
+
+자료원: PUBMED · 논문 색인
+저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-22 · 경구 혈당강하제
 [Cutaneous Adverse Reactions Associated with Modern Antidiabetic Therapies: A Narrative Review.](https://pubmed.ncbi.nlm.nih.gov/43069406/)
@@ -327,39 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-13 · SGLT2
-[Association of Sodium-Glucose Cotransporter-2 Inhibitor Use with Laboratory- and Anthropometry-Derived Indices of Hepatic Steatosis and Fibrosis in Type 2 Diabetes: A Retrospective Cohort Study.](https://pubmed.ncbi.nlm.nih.gov/43025441/)
-
-자료원: PUBMED · 논문 색인
-저널: Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-13 · GLP-1·GIP
-[Kidney effects of tirzepatide across albuminuria, filtration markers, and clinical outcomes: a parent-trial-level systematic review and meta-analysis.](https://pubmed.ncbi.nlm.nih.gov/43025465/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes research and clinical practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-12 · tirzepatide
-[A Study of Tirzepatide Compared With Intensified Conventional Care in Adult Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT05433584)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE4'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=794, 개입=Antihyperglycemic medication, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · empagliflozin
-[EASi-PROTKT™ - A Study to Test Vicadrostat (BI 690517) Taken Together With Empagliflozin in People With Type 2 Diabetes, High Blood Pressure, and Cardiovascular Disease](https://clinicaltrials.gov/study/NCT07064473)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=11800, 개입=Empagliflozin, Placebo matching Vicadrostat, Vicadrostat. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · semaglutide
-[A Study to Compare Different Doses of Tifeglipron (RO7795081) With Placebo or Semaglutide in People With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT07112872)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE2'], 모집상태=RECRUITING, 등록인원=330, 개입=Placebo, Semaglutide, Tifeglipron. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-12 · tirzepatide
-[Efficacy and Safety of Tirzepatide Once Weekly Versus Placebo in Participants Who Are Either Obese or Overweight With Weight-Related Comorbidities (SURMOUNT-1)](https://clinicaltrials.gov/study/NCT07481747)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=2539, 개입=Placebo, Reduced-calorie diet, Tirzepatide. 임상 효과가 입증됐다는 의미는 아님.
