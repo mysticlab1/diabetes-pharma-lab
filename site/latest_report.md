@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-25 08:09 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-26 08:07 KST
 
-최근 90일 이내 자료 207건 / 마지막 수집 2026-11-25T08:09:41+09:00
+최근 90일 이내 자료 210건 / 마지막 수집 2026-11-26T08:07:41+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -81,6 +81,18 @@
 
 자료원: PUBMED · 논문 색인
 저널: Psychopharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-24 · GLP-1·GIP
+[Mechanisms of kidney protection by semaglutide in type 2 diabetes and CKD.](https://pubmed.ncbi.nlm.nih.gov/43078995/)
+
+자료원: PUBMED · 논문 색인
+저널: Nature reviews. Nephrology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-24 · 경구 혈당강하제
+[Dairy-derived bioactive peptides in the regulation of obesity and type 2 diabetes: engineered production strategies, mechanisms and translational challenges.](https://pubmed.ncbi.nlm.nih.gov/43080069/)
+
+자료원: PUBMED · 논문 색인
+저널: Critical reviews in food science and nutrition. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-23 · insulin icodec
 [A Phase IIIb Clinical Study to Assess the Efficacy and Safety of GZR4 in Subjects With Type 2 Diabetes Mellitus Treated With Basal Insulin](https://clinicaltrials.gov/study/NCT07165223)
@@ -351,15 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Minerva endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-13 · 경구 혈당강하제
-[Glucagon-like peptide-1 receptor agonists and lung cancer risk in patients with type 2 diabetes and pulmonary nodules.](https://pubmed.ncbi.nlm.nih.gov/43024059/)
-
-자료원: PUBMED · 논문 색인
-저널: Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-13 · GLP-1·GIP
-[When hypertensive crisis mimics septic shock: A case report of pheochromocytoma-induced severe lactic acidosis following GLP-1 receptor agonist administration.](https://pubmed.ncbi.nlm.nih.gov/43024315/)
-
-자료원: PUBMED · 논문 색인
-저널: Medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
