@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-26 08:07 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-27 08:11 KST
 
-최근 90일 이내 자료 210건 / 마지막 수집 2026-11-26T08:07:41+09:00
+최근 90일 이내 자료 215건 / 마지막 수집 2026-11-27T08:11:29+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -51,6 +51,42 @@
 
 자료원: PUBMED · 논문 색인
 저널: Journal of human nutrition and dietetics : the official journal of the British Dietetic Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-26 · 경구 혈당강하제
+[Dose optimization study of hydroxychloroquine as add-on therapy in patients with uncontrolled type 2 diabetes mellitus.](https://pubmed.ncbi.nlm.nih.gov/43095768/)
+
+자료원: PUBMED · 논문 색인
+저널: Current medical research and opinion. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-26 · GLP-1·GIP
+[From GLP-1 Receptor Agonism to Multi-Receptor Targeting in Kidney Disease.](https://pubmed.ncbi.nlm.nih.gov/43096694/)
+
+자료원: PUBMED · 논문 색인
+저널: Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-26 · 경구 혈당강하제
+[Adjunctive ursodeoxycholic acid in type 2 diabetes: a randomized controlled open-label pilot study.](https://pubmed.ncbi.nlm.nih.gov/43097300/)
+
+자료원: PUBMED · 논문 색인
+저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-25 · 경구 혈당강하제
+[Metabolic Profiles and Insulin Therapy Requirements among Pregnant Women with Gestational Diabetes Mellitus and Type 2 Diabetes across Self-Identified Race/Ethnic Groups in Brooklyn, New York, United States.](https://pubmed.ncbi.nlm.nih.gov/43057316/)
+
+자료원: PUBMED · 논문 색인
+저널: American journal of perinatology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-25 · 경구 혈당강하제
+[Type 2 diabetes mellitus is not associated with risk of incident inflammatory bowel disease in U.S. adults.](https://pubmed.ncbi.nlm.nih.gov/43085371/)
+
+자료원: PUBMED · 논문 색인
+저널: Inflammatory bowel diseases. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-25 · GLP-1·GIP
+[Effect of CagriSema 2·4 mg/2·4 mg on glycaemic outcomes and their association with weight loss: a substudy of the randomised, double-masked, parallel-group, phase 3a REDEFINE 2 trial.](https://pubmed.ncbi.nlm.nih.gov/43085379/)
+
+자료원: PUBMED · 논문 색인
+저널: The lancet. Diabetes & endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-24 · semaglutide / tirzepatide
 [A Study of LY3457263 Compared With Placebo in Participants With Type 2 Diabetes on a Stable Dose of Semaglutide or Tirzepatide](https://clinicaltrials.gov/study/NCT06897475)
@@ -118,7 +154,7 @@
 자료원: PUBMED · 논문 색인
 저널: Diabetes care. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
-## 2026-11-23 · GLP-1·GIP / SGLT2
+## 2026-11-23 · SGLT2
 [Effects of Semaglutide and Dapagliflozin on Natriuretic Peptides in Type 2 Diabetes: A Randomized Comparative Study.](https://pubmed.ncbi.nlm.nih.gov/43071039/)
 
 자료원: PUBMED · 논문 색인
@@ -172,6 +208,12 @@
 자료원: PUBMED · 논문 색인
 저널: Chinese medical journal. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-20 · SGLT2
+[Annona purpurea Moc. & Sesse ex Dunal, an Important Resource in Mexican Traditional Medicine for the Treatment of Diabetes Mellitus: A Bio-Guided Phytochemical Study.](https://pubmed.ncbi.nlm.nih.gov/43093440/)
+
+자료원: PUBMED · 논문 색인
+저널: Pharmaceuticals (Basel, Switzerland). 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
 ## 2026-11-19 · semaglutide
 [A Research Study to See How Well CagriSema Compared to Semaglutide, Cagrilintide and Placebo Lowers Blood Sugar and Body Weight in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor](https://clinicaltrials.gov/study/NCT06065540)
 
@@ -183,12 +225,6 @@
 
 자료원: PUBMED · 논문 색인
 저널: ESC heart failure. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-19 · 경구 혈당강하제
-[Metabolic Profiles and insulin therapy requirements among pregnant women with Gestational Diabetes mellitus and Type 2 Diabetes across self-identified Race/ethnic groups in Brooklyn NY, USA.](https://pubmed.ncbi.nlm.nih.gov/43057316/)
-
-자료원: PUBMED · 논문 색인
-저널: American journal of perinatology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-19 · GLP-1·GIP
 [Cardiovascular Outcomes of Semaglutide in Adults With Congenital Heart Disease.](https://pubmed.ncbi.nlm.nih.gov/43057605/)
@@ -327,39 +363,3 @@
 
 자료원: PUBMED · 논문 색인
 저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-15 · SGLT2
-[Urinary Metabolic and Hemodynamic Protein Signatures in Canagliflozin Treated Patients With Diabetic Kidney Disease: Findings From CREDENCE.](https://pubmed.ncbi.nlm.nih.gov/43035629/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-15 · GLP-1·GIP
-[Ocular Safety of GLP-1 Receptor Agonists: A Comprehensive Review.](https://pubmed.ncbi.nlm.nih.gov/43041449/)
-
-자료원: PUBMED · 논문 색인
-저널: Obesity science & practice. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-14 · SGLT2
-[Efficacy and safety of teneligliptin as add-on therapy in patients with type 2 diabetes treated with empagliflozin and metformin: A 24-week, randomized, double-blind, placebo-controlled phase 3 trial.](https://pubmed.ncbi.nlm.nih.gov/43032907/)
-
-자료원: PUBMED · 논문 색인
-저널: Journal of diabetes investigation. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-14 · 경구 혈당강하제
-[Development of a Gliptin Screening System Based on a Recombinant Secreted Form of Dipeptidyl Peptidase-4.](https://pubmed.ncbi.nlm.nih.gov/43033392/)
-
-자료원: PUBMED · 논문 색인
-저널: Bulletin of experimental biology and medicine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-13 · semaglutide
-[A Study of BGM0504 in Participants With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT06716216)
-
-자료원: CTGOV · 임상시험 등록정보
-연구 등록정보: 단계=['PHASE3'], 모집상태=COMPLETED, 등록인원=553, 개입=Drug: 5 mg BGM0504 Administered SC, Drug: Semaglutide Administered SC, Drug:10 mg BGM0504 Administered SC. 임상 효과가 입증됐다는 의미는 아님.
-
-## 2026-11-13 · GLP-1·GIP
-[Microdosing, fractional and split dosing of injectable GLP-1-based drugs: balancing potential benefits and risks.](https://pubmed.ncbi.nlm.nih.gov/43021748/)
-
-자료원: PUBMED · 논문 색인
-저널: Minerva endocrinology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
