@@ -1,6 +1,6 @@
-# 당뇨병 치료제 정보 브리핑 — 2026-11-27 08:11 KST
+# 당뇨병 치료제 정보 브리핑 — 2026-11-28 08:09 KST
 
-최근 90일 이내 자료 215건 / 마지막 수집 2026-11-27T08:11:29+09:00
+최근 90일 이내 자료 220건 / 마지막 수집 2026-11-28T08:09:48+09:00
 
 **주의:** 국내 품목·성분 시범 API는 별도 키 필요. 허가사항·급여기준 변경을 완전히 감시하지 않으며 진료·처방 판단용이 아닙니다.
 
@@ -52,6 +52,24 @@
 자료원: PUBMED · 논문 색인
 저널: Journal of human nutrition and dietetics : the official journal of the British Dietetic Association. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
+## 2026-11-27 · dapagliflozin / semaglutide
+[Screening and Intervention for Subclinical Coronary Artery Disease in Patients With Type 2 Diabetes](https://clinicaltrials.gov/study/NCT05700877)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE4'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=7300, 개입=CAC-based treatment strategy, Standard treatment. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-27 · tirzepatide
+[A First-In-Human Study of ARO-ALK7 in Adults With Obesity With and Without Type 2 Diabetes Mellitus](https://clinicaltrials.gov/study/NCT06937203)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE1', 'PHASE2'], 모집상태=ACTIVE_NOT_RECRUITING, 등록인원=141, 개입=ARO-ALK7, Placebo. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-27 · empagliflozin
+[EASi-PROTKT™ - A Study to Test Vicadrostat (BI 690517) Taken Together With Empagliflozin in People With Type 2 Diabetes, High Blood Pressure, and Cardiovascular Disease](https://clinicaltrials.gov/study/NCT07064473)
+
+자료원: CTGOV · 임상시험 등록정보
+연구 등록정보: 단계=['PHASE3'], 모집상태=RECRUITING, 등록인원=11800, 개입=Empagliflozin, Placebo matching Vicadrostat, Vicadrostat. 임상 효과가 입증됐다는 의미는 아님.
+
 ## 2026-11-26 · 경구 혈당강하제
 [Dose optimization study of hydroxychloroquine as add-on therapy in patients with uncontrolled type 2 diabetes mellitus.](https://pubmed.ncbi.nlm.nih.gov/43095768/)
 
@@ -69,6 +87,12 @@
 
 자료원: PUBMED · 논문 색인
 저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
+
+## 2026-11-26 · GLP-1·GIP / 경구 혈당강하제
+[Comparative effects of metformin, semaglutide and tirzepatide on oxidative stress, thiol-disulfide homeostasis and oxidative DNA damage in type 2 diabetes.](https://pubmed.ncbi.nlm.nih.gov/43100035/)
+
+자료원: PUBMED · 논문 색인
+저널: British journal of pharmacology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
 
 ## 2026-11-25 · 경구 혈당강하제
 [Metabolic Profiles and Insulin Therapy Requirements among Pregnant Women with Gestational Diabetes Mellitus and Type 2 Diabetes across Self-Identified Race/Ethnic Groups in Brooklyn, New York, United States.](https://pubmed.ncbi.nlm.nih.gov/43057316/)
@@ -105,6 +129,12 @@
 
 자료원: CTGOV · 임상시험 등록정보
 연구 등록정보: 단계=['미상'], 모집상태=NOT_YET_RECRUITING, 등록인원=330, 개입=. 임상 효과가 입증됐다는 의미는 아님.
+
+## 2026-11-24 · empagliflozin
+[JARDIANCE](https://api.fda.gov/drug/label.json?search=set_id%3A%22942a82a4-cbbd-4e44-9965-8d03f767912b%22&limit=1)
+
+자료원: OPENFDA_LABEL · 미국 라벨 버전
+성분: EMPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 10498873d75225. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
 
 ## 2026-11-24 · 경구 혈당강하제
 [\[Association between sodium-glucose co-transporter 2 inhibitors and mortality in cancer patients with coronary artery disease and type 2 diabetes\].](https://pubmed.ncbi.nlm.nih.gov/43068823/)
@@ -333,33 +363,3 @@
 
 자료원: OPENFDA_LABEL · 미국 라벨 버전
 성분: DAPAGLIFLOZIN. 임상 관련 라벨 항목 식별값: 8ce0901d57917a. 동일 SET ID의 라벨 변경 감지용이며 국내 허가 여부/임상 조치 판단 근거가 아님.
-
-## 2026-11-16 · SGLT2
-[Efficacy and Safety of Anagliptin Added to Metformin and Empagliflozin 10 mg in Korean Adults With Type 2 Diabetes: A Multicentre, Randomised, Double-Blind, Placebo-Controlled Phase III Trial.](https://pubmed.ncbi.nlm.nih.gov/43036268/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-16 · 기저인슐린
-[A comparative analysis of the safety and tolerability of oral small-molecule versus injectable peptide GLP-1 receptor agonists.](https://pubmed.ncbi.nlm.nih.gov/43037879/)
-
-자료원: PUBMED · 논문 색인
-저널: Endocrine. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-16 · 경구 혈당강하제
-[Real-World Initiation of Resmetirom and Recorded Incretin Exposure in the United States.](https://pubmed.ncbi.nlm.nih.gov/43039875/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-15 · 경구 혈당강하제
-[Design and Evaluation of Compritol-Oleic Acid Nanostructured Lipid Carriers: A New Approach to Type 2 Diabetes Therapy.](https://pubmed.ncbi.nlm.nih.gov/42960515/)
-
-자료원: PUBMED · 논문 색인
-저널: FASEB journal : official publication of the Federation of American Societies for Experimental Biology. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
-
-## 2026-11-15 · 기저인슐린
-[Pre-Treatment Biomarkers Associated With Remission of Type 2 Diabetes in Response to Short-Term Insulin-Based Therapy.](https://pubmed.ncbi.nlm.nih.gov/43035628/)
-
-자료원: PUBMED · 논문 색인
-저널: Diabetes, obesity & metabolism. 자동 수집한 제목·서지정보만 저장. 연구의 유효성/안전성 결과를 제목으로부터 추론하지 않음.
